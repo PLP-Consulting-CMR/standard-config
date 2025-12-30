@@ -1,0 +1,4 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1200
+57d91463-1b95-4e4d-9448-ee4e88c53cb9,,,Date 1ere CPN,Date of First ANC Visit,Date 1ere CPN,Date of First ANC Visit,Misc,Date,,
+1bddb328-f0c2-46b0-b5f9-6d66c7726573,,,Raison,Reason,Raison,Reason,Misc,Text,,
+14815716-7d9a-4306-8f05-f27c3ff30709,"Date of First ANC Visit;Reason",,Consultation prénatale (CPN) - initial,Antenatal Care (ANC) - initial,Consultation prénatale (CPN) - initial,Antenatal Care (ANC) - initial,Misc,N/A,,
