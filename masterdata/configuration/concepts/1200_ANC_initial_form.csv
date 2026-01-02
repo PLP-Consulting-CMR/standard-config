@@ -1,0 +1,6 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1200
+26d6a309-5693-44fb-8964-313ae02197bc,Index testing offered?;Date Offered;Index testing accepted?;Date Accepted,,Cas Index,Index Testing,Cas Index,Index Testing,Misc,N/A,,
+57d91463-1b95-4e4d-9448-ee4e88c53cb9,,,Date 1ere CPN,Date of First ANC Visit,Date 1ere CPN,Date of First ANC Visit,Misc,Date,,
+868f4e4f-2e5e-4b1f-adc1-59373a25064e,,,"CPN,Gravidité","ANC, Gravida","CPN,Gravidité","ANC, Gravida",Misc,Numeric,,
+9bd7169c-3445-462b-816c-5a2b3b86e74b,,,"CPN,Parité","ANC, Parity","CPN,Parité","ANC, Parity",Misc,Numeric,,
+14815716-7d9a-4306-8f05-f27c3ff30709,"Date of First ANC Visit;Obstetrical/Delivery History;ANC Vital Signs;Pregnancy Status at 1st Visit;HIV Status;Syphilis Testing and Treatment;Partners HIV status;Laboratory tests and results;LLIN/Medication received;Pregnancy complication/outcome;ARVs / ART",,Consultation prénatale (CPN) - initial,Antenatal Care (ANC) - initial,Consultation prénatale (CPN) - initial,Antenatal Care (ANC) - initial,Misc,N/A,,
