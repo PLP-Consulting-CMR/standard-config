@@ -1,0 +1,5 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1254
+7b0f2198-4ac3-40d7-bdde-2884e29b8448,,,Date prévisionnelle,Expected date,Date prévisionnelle,Expected date,Misc,Date,,
+e9c52202-8041-4056-917c-15a1b5d5fa77,,,Nature de l'intervention chirurgicale,Nature of surgical procedure,Nature de l'intervention chirurgicale,Nature of surgical procedure,Misc,Text,,
+46b41833-8c1a-4693-8371-e405789aaa93,,,Numéro de Salle,Room number,Numéro de Salle,Room number,Misc,Text,,
+a0d68eaf-5ce3-4014-a2a8-bfec4c690e37,Expected date;Nature of surgical procedure;Surgeon name;Room number,,Plan opératoire,Oprerating plan,Plan opératoire,Operating plan,Misc,N/A,,
