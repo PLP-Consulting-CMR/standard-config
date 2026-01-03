@@ -1,0 +1,11 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1252
+44fbbac5-b3b8-4f33-bdcf-737108f9e286,,,Résidence,Residence,Résidence,Residence,Misc,Text,,
+3a2d9455-fe45-420c-8af2-2e6e1d4a25da,,,Personne à prévenir,Person to notify,Personne à prévenir,Person to notify,Misc,Text,,
+5e60d34e-9d10-4948-b470-af98f27ab7d6,,,Numéro de téléphone de la personne à contacter,Phone number of contact person,Numéro de téléphone de la personne à contacter,Phone number of contact person,Misc,Text,,
+30a0c30f-51de-482b-8faf-1c118496ed7d,Residence;Person to notify;Phone number of contact person,,Identification du malade,Patient identification,Identification du malade,Patient identification,Misc,N/A,,
+51623cec-6a9c-4a6b-80c8-2d8edda81aa1,,,Motif de référence,Reason for referral,Motif de référence,Reason for referral,Misc,Text,,
+21834c56-3cc6-443b-9079-cbba4e2c08d2,,,Lieu de référence,Place of referral,Lieu de référence,Place of referral,Misc,Text,,
+3b379a43-66ac-48b9-8ee5-3ee95373cc62,,,Nom du référent,Name of referrer,Nom du référent,Name of referrer,Misc,Text,,
+9d4f0e99-cdb9-4f10-85c3-244eb0805185,,,Date et heure de la référence,Date and time of referral,Date et heure de la référence,Date and time of referral,Misc,DateTime,,
+f5372e47-4777-4b1b-b4e1-4de124f7009d,Reason for referral;Place of referral;Name of referrer;Date and time of referral,,Référence patient,Patient referral,Référence patient,Patient referral,Misc,N/A,,
+a5a12681-16a5-452c-ad96-a66ba10f4cbd,30a0c30f-51de-482b-8faf-1c118496ed7d;Patient referral,,Fiche de référence,Reference file,Fiche de référence,Reference file,Misc,N/A,,
