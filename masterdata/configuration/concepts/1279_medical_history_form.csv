@@ -1,0 +1,13 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1279
+527d125d-7645-46e3-9ce3-947be86e76da,,,Antécédents Médicaux du Patient,Patient's Medical History,Antécédents Médicaux du Patient,Patient's Medical History,Misc,Text,
+9e0c85e0-aff6-4ea6-b353-36f6a97689a6,,,Antécédents Chirurgicaux du Patient,Patient's Surgical History,Antécédents Chirurgicaux du Patient,Patient's Surgical History,Misc,Text,
+f3bcd5ee-6eda-4ea2-9080-a6e8efe688a7,,,Immuno-Allergiques,Immuno-Allergic,Immuno-Allergiques,Immuno-Allergic,Misc,Text,
+3fbdb233-6b00-466b-9111-892650a7125a,,,Toxicologiques,Toxicological,Toxicologiques,Toxicological,Misc,Text,
+2f298975-d6cb-4f70-b8a8-a93d7f77655f,,,Antécédents Gynécologiques de la Patiente,Patient's Gynecological History,Antécédents Gynécologiques de la Patiente,Patient's Gynecological History,Misc,Text,
+5353c465-2f0b-4150-aac2-1cf891f477d9,,,Antécédents Obstétricaux de la Patiente,Patient's Obstetrical History,Antécédents Obstétricaux de la Patiente,Patient's Obstetrical History,Misc,Text,
+a8149164-8157-444d-b194-a8f227558ebc,,,Antécédents Nutritionnels du Patient,Patient's Nutritional History,Antécédents Nutritionnels du Patient,Patient's Nutritional History,Misc,Text,
+f5f1a8fd-ffd5-403a-a2cf-bb96a475a3fc,,,Croissance et Développement,Growth and Development,Croissance et Développement,Growth and Development,Misc,Text,
+64a28dc7-c44e-44f7-ba7d-cf5a201b8442,,,Socio-environnementaux,Socio-Environmental,Socio-environnementaux,Socio-Environmental,Misc,Text,
+da48f900-12d1-4cec-89cd-e3c1b35b834f,527d125d-7645-46e3-9ce3-947be86e76da;9e0c85e0-aff6-4ea6-b353-36f6a97689a6;f3bcd5ee-6eda-4ea2-9080-a6e8efe688a7;3fbdb233-6b00-466b-9111-892650a7125a;2f298975-d6cb-4f70-b8a8-a93d7f77655f;5353c465-2f0b-4150-aac2-1cf891f477d9;a8149164-8157-444d-b194-a8f227558ebc;f5f1a8fd-ffd5-403a-a2cf-bb96a475a3fc;64a28dc7-c44e-44f7-ba7d-cf5a201b8442,,1.Personnel,1.Personnal,Personnel,Personnal,Misc,N/A,
+12c83155-4d0e-4d45-8459-994b9ca7c229,,,2.Antécédents Familiaux du Patient,2.Patient's Family History,Antécédents Familiaux du Patient,Patient's Family History,Misc,Text,
+2e0d9bbd-6b76-4544-969c-50a6ed171ca9,da48f900-12d1-4cec-89cd-e3c1b35b834f;12c83155-4d0e-4d45-8459-994b9ca7c229,,Formulaire d'Antécédents Médicaux,Medical History Form,Formulaire  d'Antécédents Médicaux,Medical History Form,Misc,N/A,
