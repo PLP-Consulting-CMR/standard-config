@@ -1,0 +1,11 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1241
+7bc1ff81-b90c-4bb4-92fe-649c03bbaf14,,,Pour remplacement de sang N°,For blood replacement N°,Pour remplacement de sang N°,For blood replacement N°,Misc,Text,,
+b84254e8-e7f2-4625-a40b-5999af356bc6,,,Lit N°,Bed Number,Lit N°,Bed Number,Misc,Text,
+03d8524b-031f-489b-ba4e-13fa0eb84e5c,,,Nom du Service,Service name,Nom du Service,Service name,Misc,Text,,
+d7210607-d7cf-4aa8-bbd8-8344673c06cb,Donation date;Donor N° 1;Donor N° 2,,N° d'identification des donneurs,Donor identification number,N° d'identification des donneurs,Donor identification number,Misc,N/A,,
+a0f14965-f175-4183-ac3c-289187409c23,,,Date de donation,Donation date,Date de donation,Donation date,Misc,Date,,
+bb95503f-2b5b-451a-8cb3-0fff4eedb460,,,Donneur N° 1,Donor N° 1,Donneur N° 1,Donor N° 1,Misc,Text,,
+7511ee47-928e-414d-9216-5e2f22ef114e,,,Donneur N° 2,Donor N° 2,Donneur N° 2,Donor N° 2,Misc,Text,,
+858756e5-02ea-4d6f-9d2a-8a92a78bcf73,,,Le préleveur,The collector,Le préleveur,The collector,Misc,Text,,
+2eea9b96-769c-4f15-ae35-ca53320b7b0b,,,Le bioligiste,The biologist,Le bioligiste,The biologist,Misc,Text,,
+fceb0c88-dac2-4817-9049-9ab7f0852647,For blood replacement N°;Bed Number;Service name;Donor identification number;Stamp and signature;The collector;The biologist,,Fiche d'identification des donneurs,Donors identification sheet,Fiche d'identification des donneurs,Donors identification sheet,Misc,N/A,,
