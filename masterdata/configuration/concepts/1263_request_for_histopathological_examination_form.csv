@@ -1,5 +1,6 @@
 uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1263
 eaecf1c3-cbeb-4646-b0f2-f28002ee3ac8,,,Effectué par le docteur,Performed by the doctor,Effectué par le docteur,Performed by the doctor,Misc,Text,,
+81ff1578-da33-44f3-bdbe-71d7706ecd87,,,Nom de la formation sanitaire,Name of health facility,Nom de la formation sanitaire,Name of health facility,Misc,Text,,
 34bd23af-c7f3-4289-884b-e37bf2919950,,,Adresse,Address,Adresse,Address,Misc,Text,,
 b3fce4e9-dd84-4623-8bb1-9dc5f57021be,Organ removed;Date of removal,,Malade,Sick person,Malade,Sick person,Misc,N/A,,
 d6f3fc79-09ef-4345-9666-79748bff6b95,,,Organe prélevé,Organ removed,Organe prélevé,Organ removed,Misc,Text,,
@@ -9,4 +10,4 @@ bbe73c14-965e-4b2a-96ee-ce4a9ae11d6c,,,Renseignements cliniques et paracliniques
 4c26ab54-2711-4bec-bba7-d3c8ea273ab1,,,Le Médécin prescripteur,The prescribing doctor,Le Médécin prescripteur,The prescribing doctor,Misc,Text,,
 70ba04c1-c965-4276-9858-4788faaf71f1,,,Date arrivée au laboratoire,Date of arrival at the laboratory,Date arrivée au laboratoire,Date of arrival at the laboratory,Misc,Date,,
 7bc1ff81-b90c-4bb4-92fe-649c03bbaf14,,,N° de Laboratoire,Laboratory number,N° de Laboratoire,Laboratory number,Misc,Text,,
-c24b6763-a440-4896-8ec1-d1ef1d13166a,Performed by the doctor;Health Facility;Address (text);Sick person;Clinical and paraclinical information;Description of lesions;The prescribing doctor;Date of arrival at the laboratory;Laboratory number,,Demande d'examen histopathologique,Request for histopathological examination,Demande d'examen histopathologique,Request for histopathological examination,Misc,N/A,,
+c24b6763-a440-4896-8ec1-d1ef1d13166a,Performed by the doctor;Name of health facility;Address (text);Sick person;Clinical and paraclinical information;Description of lesions;The prescribing doctor;Date of arrival at the laboratory;Laboratory number,,Demande d'examen histopathologique,Request for histopathological examination,Demande d'examen histopathologique,Request for histopathological examination,Misc,N/A,,
