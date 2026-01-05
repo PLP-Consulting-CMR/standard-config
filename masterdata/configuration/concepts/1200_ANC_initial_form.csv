@@ -105,8 +105,8 @@ a3fecce4-93ee-4cf8-b8de-fceeb9f30b7e,,,AZT/3TC/NVP-Paediatric,AZT/3TC/NVP-Paedia
 da59739d-7e1a-448f-bc0e-dcf7b2bfd764,,,AZT/3TC/EFV,AZT/3TC/EFV,AZT/3TC/EFV,AZT/3TC/EFV,Misc,N/A,,
 18d65024-998e-471a-95c0-df6b3b0d72ce,,,AZT/3TC/EFV-Paediatric,AZT/3TC/EFV-Paediatric,AZT/3TC/EFV-Paediatric,AZT/3TC/EFV-Paediatric,Misc,N/A,,
 
-185e687e-4c9e-4c51-8ebd-6e43a001df4b,,,Autre codé ,Other coded,Autre codé ,Other coded,Misc,N/A,,
-85d15312-3e9f-4834-bbee-5b820df32043,,AZT/3TC/NVP;AZT/3TC/LPV/r;AZT/3TC/NVP-Paediatric;AZT/3TC/EFV;AZT/3TC/EFV-Paediatric;TDF/3TC/NVP;TDF/3TC/NVP-Paediatric;TDF/3TC/EFV;TDF/3TC/EFV-Paediatric;TDF/3TC/LPV/r;Other coded,Regime VIH de la mère,HIVTC Mothers ARV,Regime VIH de la mère,HIVTC Mothers ARV,Misc,Coded,,
+185e687e-4c9e-4c51-8ebd-6e43a001df4b,,,Autre regime ,Other regimen,Autre regime ,Other regimen,Misc,N/A,,
+85d15312-3e9f-4834-bbee-5b820df32043,,AZT/3TC/NVP;AZT/3TC/LPV/r;AZT/3TC/NVP-Paediatric;AZT/3TC/EFV;AZT/3TC/EFV-Paediatric;TDF/3TC/NVP;TDF/3TC/NVP-Paediatric;TDF/3TC/EFV;TDF/3TC/EFV-Paediatric;TDF/3TC/LPV/r;Other regimen,Regime VIH de la mère,HIVTC Mothers ARV Regimen,Regime VIH de la mère,HIVTC Mothers ARV Regimen,Misc,Coded,,
 ae4e6b70-b8ce-4672-b41b-e9bdd31fe4f8,,,Nombre de Pillules,Number of Pills,Nombre de Pillules,Number of Pills,Misc,Numeric,,
 d09552b6-302c-427a-b757-dfeeb0ec1d50,,,Code TARV,Unique ART Client ID Number,Code TARV,Unique ART Client ID Number,Misc,Text,,
 89b1cd66-c33a-4ef4-b208-5d86502f14ec,"ART, Status;HIVTC Mothers ARV;Number of Pills;Start date;Unique ART Client ID Number",,ARVs/TAR,ARVs/ART,ARVs/TAR,ARVs/ART,Misc,N/A,, 
