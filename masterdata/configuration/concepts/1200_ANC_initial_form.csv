@@ -28,7 +28,7 @@ c6c08cdc-18dc-4f42-809c-959621bc9a6c,,,Date du test VIH,HIV Test Date,Date du te
 4026c752-ecfe-43b0-9cf9-14a74d961fd1,,Yes full name;No full name;Unknown;Test Refused;Stock Out,Test refait si (P),Repeat Test done if (P),Test refait si (P),Repeat Test done if (P),Misc,Coded,,
 541d9f7b-f622-4ebc-a3a3-50c970d4cce0,,,Date du test refait,Repeat Test Date,Date du test refait,Repeat Test Date,Misc,Date,,
 7682c09b-8e81-4e30-8afd-636fb9fcd4a1,,Positive;Negative;Indeterminate;Unknown,Résultat du test refait,Repeat Test Result,Résultat du test refait,Repeat Test Result,Misc,Coded,,
-85dadffe-5714-4210-8632-6fb51ef593b6,,Negative;Positive;Indeterminate;Unknown,"HTC, Result",Résultat du test,"HTC, Result",Résultat du test,Misc,Coded,,
+85dadffe-5714-4210-8632-6fb51ef593b6,,Negative;Positive;Indeterminate;Unknown,Résultat du test,"HTC, Result",Résultat du test,"HTC, Result",Misc,Coded,,
 130e05df-8283-453b-a611-d4f884fac8e0,"HIV Tested;HIV Test Date;HTC, Result;Repeat Test done if (P);Repeat Test Date;Repeat Test Result",,(a) Avant l'enrôlement en CPN,Prior to ANC Enrolment,(a) Avant l'enrôlement en CPN,Prior to ANC Enrolment,Misc,N/A,,
 9fda317c-9fd4-4423-a09b-dd4ba86a8a61,,Yes full name;No full name,Éligible pour le retest du VIH?,Eligible for HIV Repeat Test?,Éligible pour le retest du VIH?,Eligible for HIV Repeat Test?,Misc,Coded,,
 1bddb328-f0c2-46b0-b5f9-6d66c7726573,,,Raison,Reason,Raison,Reason,Misc,Text,,
