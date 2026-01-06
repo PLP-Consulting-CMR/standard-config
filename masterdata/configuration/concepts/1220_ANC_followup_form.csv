@@ -1,0 +1,35 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1220
+fb7e5436-12bc-4c89-9def-ec156528c765,Albumin (Urine),,Parametres,Parameters,Parametres,Parameters,Misc,N/A,,
+820a12b1-1742-4309-aa95-61dcff886fd9,,,Nil,Nil,Nil,Nil,Misc,N/A,,
+95aaf8f6-a9a9-494e-a9d5-fbb97d607a4c,,,Trace,Trace,Trace,Trace,Misc,N/A,,
+68d4a408-6de3-487e-890a-93282aab8d00,,,1+,1+,1+,1+,Misc,N/A,,
+b0484863-a526-49e3-a1e4-25898e80831d,,,2+,2+,2+,2+,Misc,N/A,,
+5263158a-a7ff-452f-a883-a9b45f41db9b,,,3+,3+,3+,3+,Misc,N/A,,
+b0539a16-0f62-44a0-9ae7-dc9aca111744,,,4+,4+,4+,4+,Misc,N/A,,
+1dc767cc-46d1-4226-b346-1c17c9e3145f,,Nil;Trace;1+;2+;3+;4+,Albuminurie,Albumin (Urine),Albuminurie,Albumin (Urine),LabTest,Coded,,
+
+766f60c7-fefc-4a84-beb7-93538bd0ac68,,Yes full name;No full name,Fe/Folate,Fe/Folate,Fe/Folate,Fe/Folate,Misc,Coded,,
+0d60a86e-527a-4295-99b7-28084a6b6d89,,Yes full name;No full name,Autres traitement réçu,therO Medications received,Autres traitement réçu,Other Medications received,Misc,Coded,,
+d63f71a3-5094-426d-a096-b9bac893174c,Fe/Folate;Received Cotrimoxazole;Other Medications received,,Traitement Reçu,Medications received,Traitement Reçu,Medications received,Misc,N/A,,
+f2355233-c552-4cd6-802f-0c7c75221f03,,,Non applicable,Not Applicable,Non applicable,Not Applicable,Misc,N/A,,
+5159ab7a-fdba-47bf-8ed1-4999c019bdb0,,Yes full name;No full name;Not AApplicable,CTX Reçu,Received Cotrimoxazole,CTX Reçu,Received Cotrimoxazole,Misc,Coded,,
+
+57f8b604-7e19-4f58-a801-523b07ca26cf,,,Switcher à TAR,Switched to ART,Switcher à TAR,Switched to ART,Misc,Text,,
+ae4e6b70-b8ce-4672-b41b-e9bdd31fe4f8,,,Nombre de Pillules,Number of Pills,Nombre de Pillules,Number of Pills,Misc,Numeric,,
+c23c33d5-6bf8-4f20-b7dd-93db5c3d6f28,HIVTC Mothers ARV Regimen;Number of Pills;Switched to ART,,ARVs(CPN),ARVs(ANC),ARVs(CPN),ARVs(ANC),Misc,N/A,,
+
+1980c545-0bdb-4da0-b48a-e60d6f0fc2be,,,Refusé,Refused,Refusé,Refused,Misc,N/A,,
+e60b90fa-7200-4cc7-9b47-8901fd596483,,,Rupture de stock,Stock Out,Rupture de stock,Stock Out,Misc,N/A,,
+dbfbf26c-a236-40f7-812a-4171b0daac4c,,Yes full name;No full name;Unknown;Refused;Stock Out,Testé au VIH,HIV Tested,Testé au VIH,HIV Tested,Misc,Coded,,
+85dadffe-5714-4210-8632-6fb51ef593b6,,Negative;Positive;Indeterminate;Unknown,"HTC, Result",Résultat du test,"HTC, Result",Résultat du test,Misc,Coded,,
+bf8499e8-df87-4b00-b82d-539aaed79c00,"HIV Tested;HIV Test Date;HTC, Result;Repeat Test done if (P);Repeat Test Date;Repeat Test Result",,2e Test VIH (femmes ayant un Test VIH négatif >3 mois),2nd HIV Test (for women with HIV negative test >3mo old),2e Test VIH (femmes ayant un Test VIH négatif >3 mois),2nd HIV Test (for women with HIV negative test >3mo old),Misc,N/A,,
+
+897ac1c2-46f8-48ee-a201-4c6db16629de,,Yes full name;No full name;Not Applicable,ARVs pédiatrique donné à la maman,Infant ARVs Provided to Mother,ARVs pédiatrique donné à la maman,Infant ARVs Provided to Mother,Misc,Coded,,
+e5341774-6b7f-4040-9902-3e53d5160af6,,Yes full name;No full name;Not Applicable,Mère enregistrée à une clinique pour TAR?,Mother linked to ART clinic,Mère enregistrée à une clinique pour TAR?,Mother linked to ART clinic,Misc,Coded,,
+7ca4f879-4862-4cd5-84b3-e1ead8ff54ff,,,Perdue de vue,Lost to Follow-up,Perdue de vue,Lost to Follow-up,Misc,N/A,,
+fdd40267-b23c-46a6-bddd-1f948b3cedb7,,,Transférré,Transferred,Transférré,Transferred,Misc,N/A,,
+af2580ec-ba6f-4146-a69c-3643b8d61e49,,,Grossesse à terme,Completed pregnancy,Grossesse à terme,Completed pregnancy,Misc,N/A,,
+727d55d9-1e20-4be8-8a73-96561cf47c84,,Lost to Follow-up;Referred;Transferred;Abortion;Completed pregnancy;Dead,Devenir de la grossesse,Pregnancy outcome,Devenir de la grossesse,Pregnancy outcome,Misc,Coded,,
+a977249d-7b39-4cb5-8ea3-e5d4e3bca307,Infant ARVs Provided to Mother;Mother linked to ART clinic;Pregnancy outcome,,Devenir VIH,HIV Outcome,Devenir VIH,HIV Outcome,Misc,N/A,, 
+
+bf0c145e-5e7a-41a2-a081-a98fc3723ffd,Parameters;Pregnancy complication/outcome;Medications received;ARVs(ANC);Index Testing;2nd HIV Test (for women with HIV negative test >3mo old);HIV Outcome,,Consultation prénatale (CPN) - suivi,Antenatal Care (ANC) - followup,Consultation prénatale (CPN) - suivi,Antenatal Care (ANC) - followup,Misc,N/A,,
