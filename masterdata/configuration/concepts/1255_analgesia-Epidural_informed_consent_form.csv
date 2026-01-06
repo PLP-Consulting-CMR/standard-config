@@ -1,0 +1,6 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1255
+03d0da85-ebfd-4e16-b5d6-641e61e3c39f,,,Noms et prénoms du patient,Patient's full name,Noms et prénoms du patient,Patient's full name,Misc,Text,,
+e7355078-b21c-4ddc-b44e-6025146f03c4,,,Signature du patient,Signature of patient,Signature du patient,Signature of patient,Misc,Text,,
+d4ab4384-9dad-4cee-8e40-2e33a8b4d5c6,,,Représentant légal ou thérapeutique,Legal or therapeutic representative,Représentant légal ou thérapeutique,Legal or therapeutic representative,Misc,Text,,
+471c99d4-f30b-4f21-adaf-69c063296f36,,,Signature du médecin,Doctor's signature,Signature du médecin,Doctor's signature,Misc,Text,,
+9c4497b8-7811-4242-9e94-07c8c65eaf8a,Patient's full name;Signature of patient;Legal or therapeutic representative;Doctor's signature,,Analgésie-Péridurale(consentement éclairé),Epidural analgesia(informed consent),Analgésie-Péridurale(consentement éclairé),Epidural analgesia(informed consent),Misc,N/A,,
