@@ -2,6 +2,8 @@ uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:
 
 
 d7413d04-a67a-4be1-acd1-8c5577847dc8,,Negative;Positive;Indeterminate;Unknown,Statut sèrologique,Serological status,Statut sèrologique,Serological status,Misc,Coded,,
+a2065636-5326-40f5-aed6-0cc2cca81ccc,,,Oui full name,Yes full name,Oui,Yes,Misc,N/A,,
+b497171e-0410-4d8d-bbd4-7e1a8f8b504e,,,Non full name,No full name,Non,No,Misc,N/A,,
 a731e98d-627c-4641-9848-9731f85e7f09,,Yes full name;No full name,Traitement ARV,ARV treatment,Traitement ARV,ARV treatment,Misc,Coded,,
 bebdb27d-995c-4724-9e85-22473fbbecc4,,,Si Oui depuis le,If Yes since,Si Oui depuis le,If Yes since,Misc,Date,,
 d821c948-17aa-42e6-bcea-fc360844fe63,,,Prèciser le protocole,Specify the protocol,Prèciser le protocole,Specify the protocol,Misc,Text,,
@@ -97,6 +99,24 @@ bd848a26-4c42-42ee-aba3-c70771d943dd,"ARV treatment in mother;Initiation period;
 2aefe251-a32d-4b76-8e19-02347233bbfb,,80586AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA;Other regimen,Traitement ARV chez l'enfant,ARV therapy in children,Traitement ARV chez l'enfant,ARV therapy in children,Misc,Coded,,
 2567d6a8-5178-48ae-aafa-69c8822edc68,,,Date d'arrêt,Stop date,Date d'arrêt,Stop date,Misc,Date,,
 29955cb9-1fd8-442e-bc59-2f3b20e70617,ARV therapy in children;Stop date,,ARV chez l'enfant,ARV in child,ARV chez l'enfant,ARV in child,Misc,N/A,,
+d4e29b85-5b37-41ee-9aff-c4b6ac7c70f9,,,Allaitement exclusif,Exclusive Breast Feeding,Allaitement exclusif,Exclusive breastfeeding,Misc,N/A,,
+472661fc-6b77-49a2-8c9f-965e65fccc53,,,Alimentation artificielle,Replacement Breast Feeding,Alimentation artificielle,Artificial milk,Misc,N/A,,
+d71f70f6-4319-4561-95d3-11a8c1dc2507,,,Allaitement mixte,Mixed Breast Feeding,Allaitement mixte,Mixed,Misc,N/A,,
+0b9b6e25-e0fe-4c65-b9af-2fd5f6cbb150,,Exclusive Breast Feeding;Replacement Breast Feeding;Mixed Breast Feeding,Type d'alimentation du nourrisson,Type of feeding,Type d'alimentation du nourrisson,Type of feeding,Misc,Coded,,
+d014bae7-e3a8-41ca-837d-9919c1750f1f,,Yes full name;No full name,Sevrage,Weaning,Sevrage,Weaning,Misc,Coded,,
+d986e715-14fd-4ae1-9ef2-7a60e3a6a54e,,,Date de début,Start date,Date de début,Start date,Misc,Date,,
+fef74daa-2a47-4c4e-b9c2-d18078d8e3be,,,Date de fin,End date,Date de fin,End date,Misc,Date,,
+c28a062b-46c9-433a-9ead-92c6c9090c0f,,,Moins d'1 mois,Less than 1 month,Moins d'1 mois,Less than 1 month,Misc,N/A,,
+a9d523e3-5a99-4878-94e5-9493452818e5,,,Plus d'1 mois,More than 1 month,Plus d'1 mois,More than 1 month,Misc,N/A,,
+662b2456-336b-4331-bf4e-7fc9dd03a006,,Less than 1 month;More than 1 month,Sevrage (Durée),Weaning (Duration),Sevrage (Durée),Weaning (Duration),Misc,Coded,,
+1e2acdcf-eb4a-4d3a-8eec-f3f4f1589a96,,,Date d'introduction de l'alimentation complémentaire,Date of introduction of complementary feeding,Date d'introduction de l'alimentation complémentaire,Date of introduction of complementary feeding,Misc,Date,,
+0a7cb1ae-aec0-4742-837d-7cd17a62a1c1,,"TDF+3TC+EFV ;TDF+3TC+DTG",ARV de la mère pendant l'allaitement,ARV of mother during breastfeeding,ARV de la mère pendant l'allaitement,ARV of mother during breastfeeding,Misc,Coded,,
+619a9177-1625-44d6-83e5-21501d3d272a,,,Si oui préciser,If yes specify,Si oui préciser,If yes specify,Misc,Text,,
+3efb279b-1352-4ec3-bd6c-a94b612e61f4,,Yes full name;No full name,Déparasitage,Deworming,Déparasitage,Deworming,Misc,Coded,,
+a223f984-eaf8-4c5e-b886-f3fb1951e3d1,,Yes full name;No full name,MILDA Utilisée,LLIN Used,MILDA Utilisée,LLIN Used,Misc,Coded,,
+a015aa57-0da7-4222-a4ed-5e3fed027a50,,Yes full name;No full name,ARV pour l'enfant pendant l'allaitement,ARVs for the child during breastfeeding,ARV pour l'enfant pendant l'allaitement,ARVs for the child during breastfeeding,Misc,Coded,,
+
+e3710a07-7130-4ada-b4be-8a5c3851691a,Type of feeding;Weaning;Start date;End date;Weaning (Duration);Date of introduction of complementary feeding;ARV of mother during breastfeeding;ARVs for the child during breastfeeding;If yes specify;Deworming;LLIN Used,,Alimentation du nourrisson,Infant Feeding,Alimentation du nourrisson,Infant Feeding,Misc,N/A,,
 377802ac-8386-4629-a8e2-9d8b70fb211c,HIV+ Pregnancy;a271bb6e-d4f0-457d-80bb-b360a2a65719;ARV in Mother;ARV in child;Infant Feeding,,2. PTME,2. PMTCT,2. PTME,2. PMTCT,Misc,N/A,,
 
 
@@ -118,6 +138,7 @@ ce17a311-4492-4ec7-b36f-6395cdc32350,,,Sevré après l’allaitement,Discharged 
 0907567c-5e85-423b-af07-817fe1724324,,,Négatif(ve) encore sous allaitement,Negative still breastfeeding,Négatif(ve) encore sous allaitement,Negative still breastfeeding,Misc,N/A,,
 a6c1b15d-e31b-41db-901f-a15ffcc548d3,,,Décédé avec statut VIH connu,Died with known HIV status,Décédé avec statut VIH connu,Died with known HIV status,Misc,N/A,,
 ae6a7c7e-21c4-4b80-815c-dad358e4522e,,,Décédé avec un statut VIH inconnu,Died with unknown HIV status,Décédé avec un statut VIH inconnu,Died with unknown HIV status,Misc,N/A,,
+96beef20-ef5f-46c0-8c30-1db32eede732,,,Date du Résultat final,Date of HEI Final Outcome,Date du Résultat final,Date of HEI Final Outcome,Misc,Date,,
 9a4267a6-b9b7-11ed-afa1-0242ac120002,,Positive;Negative;Discharged after breastfeeding;Negative still breastfeeding;Lost to Follow Up;Transferred Out;Died with known HIV status;Died with unknown HIV status,Résultat final Enfant Exposé,HEI Final Outcome,Résultat final Enfant Exposé,HEI Final Outcome,Misc,Coded,,
 fe7f4bcc-7334-4361-b88d-c610b6586a4a,Psychomotor development;Clinical Examination Conclusion;Prophylaxis (Cotrimoxazole);CTX at 6 weeks;Post partum ARV treatment;Immunization status(hiv);HEI Final Outcome;Date of HEI Final Outcome,,3. Consultation,3. Consultation,3. Consultation,3. Consultation,Misc,N/A,,
 
