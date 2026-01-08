@@ -1,7 +1,7 @@
 uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1277
 03d0da85-ebfd-4e16-b5d6-641e61e3c39f,,,Noms et prénoms du patient,Patient's full name,Noms et prénoms du patient,Patient's full name,Misc,Text,,
 216757c1-fca1-45e9-b6df-48ea9a560c57,,,Age,Age,Age,Age,Misc,Numeric,,
-c3281594-dcfe-4e3e-a960-ca780084262f,Patient's full name;Age;37fc1352-009c-4290-b740-265a77f29bbb,,Information du patient,Patient information,Information du patient,Patient information,Misc,N/A,,
+c3281594-dcfe-4e3e-a960-ca780084262f,Patient's full name;Age;Gender,,Information du patient,Patient information,Information du patient,Patient information,Misc,N/A,,
 411f4425-2e6d-424a-a52b-e37f47ea054f,,,Chirurgien,Surgeon,Chirurgien,Surgeon,Misc,Text,,
 8a8338d5-85fb-43d6-978a-c9cab3a16b9b,,,Aide chirurgien,Assistant Surgeon,Aide chirurgien,Assistant Surgeon,Misc,Text,,
 55eecdbf-1a73-46ff-81e8-ced7f2f12f1a,,,Anesthésistes,Anesthesiologists,Anesthésistes,Anesthesiologists,Misc,Text,,
