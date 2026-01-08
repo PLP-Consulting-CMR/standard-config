@@ -1,0 +1,12 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1249
+26355dda-392e-4fc3-9e6e-218c5b7ef9e6,,,Nom du service,Service Name,Nom du service,Service Name,Misc,Text,
+1b8d0b17-7877-4a67-83b9-a438408fd4bb,,,Je soussigné, I undersigned,Je soussigné,I undersigned,Misc,Text,
+505d4c37-99be-470a-b677-dcd161dc1540,,,Certifie que M. /Mme/Mlle,Certify that Mr./Mrs./Ms.,Certifie que M. /Mme/Mlle,Certify that Mr./Mrs./Ms.,Misc,Text,
+7712c85c-11cd-4255-b2d6-279bc487e345,,,Est mort(e) le,Is deceased on,Est mort(e) le,Is deceased on,Misc,Date,
+aa33878f-f7ba-453a-8f5d-c6742f3027b8,,Natural affection;Suspected death;Violent death;Death of unknown cause,Des suites de,As a result of,Des suites de,As a result of,Misc,Coded,
+59eae151-8830-4882-8c46-05caae1c3e79,,,Affection naturelle,Natural affection,Affection naturelle,Natural affection,Misc,N/A,
+d1429d29-aee3-4ed3-9a2e-d5f92c1a7c05,,,Mort suspecte,Suspected death,Mort suspecte,Suspected death,Misc,N/A,
+f7d11faa-4d5f-46f7-8e0b-f15fea197517,,,Mort violente,Violent death,Mort violente,Violent death,Misc,N/A,
+ffcd95de-03a7-41d5-8690-9160a08793ce,,,Diagnostic (éventuel),Diagnosis (possible),Diagnostic (éventuel),Diagnosis (possible),Misc,Text,
+2c61f221-709d-4485-b9cb-f8f89aa32df2,,,Signature et cachet,Stamp and signature,Signature et cachet,Stamp and signature,Misc,Text,
+84a28a78-aaf6-4a67-baf2-09cb97adb2a3,Service Name;Certify that Mr./Mrs./Ms.;Is deceased on;As a result of;Diagnosis (possible);Stamp and signature,,Certificat de genre de mort,Cause of Death Certificate,Certificat de genre de mort,Cause of Death Certificate,Misc,N/A,
