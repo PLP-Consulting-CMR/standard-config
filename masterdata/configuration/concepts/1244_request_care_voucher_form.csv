@@ -1,0 +1,15 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1244
+a3443f00-488c-4439-a826-232758081975,,,Nom de l'assuré,Name of the insured,Nom de l'assuré,Name of the insured,Misc,Text,
+7fbe82e9-08ce-406e-8770-64f0364a22dd,,,Entreprise,Company,Entreprise,Company,Misc,Text,
+d70ceb08-0d31-4ad8-9da2-56f8c22b4fd7,,,Secteur d'activité,Business sector, Secteur d'activité,Business sector,Misc,Text,
+bc456b64-feb2-41ed-b730-7a9042ab0488,,,Matricule de l'assuré,Insured's registration number,Matricule de l'assuré,Insured's registration number,Misc,Text,
+cda8c507-1bcb-451b-b5e7-b9ce5cbd5942,,,Nom du patient,Patient's Name,Nom du patient,Patient's Name,Misc,Text,
+4423d0d1-950d-48d5-b2e3-102bf32cac77,,,Date de naissance du malade,Patient's date of birth,Date de naissance du malade,Patient's date of birth,Misc,Date,
+260638bc-1bc7-4dd5-8bc6-73cd808d4ed5,,1540AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA;5617AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA;1528AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA;1527AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Lien de filiation,Relationship of kinship,Lien de filiation,Relationship of kinship,Misc,Coded,
+d34dfffa-d477-430c-81b0-102bcd5efb81,Date of hospitalization;Admission diagnosis,,Consultation externes et soins externes,Outpatient consultations and care,Consultation externes et soins externes,Outpatient consultations and care,Misc,N/A,
+2fc3bf47-abf0-4cd5-aeeb-1d3f84987673,,,Date d'hospitalisation,Date of hospitalization,Date d'hospitalisation,Date of hospitalization,Misc,Date,
+2bf2b325-d8b4-46bb-afcf-97e81af48cde,,,Diagnostic d'entrée,Admission diagnosis,Diagnostic d'entrée,Admission diagnosis,Misc,Text,
+5f776e6c-51bb-40f8-babe-b6f775e6695d,,,"Njombé, le","Njombe, on","Njombé, le","Njombe, on",Misc,Text,
+471c99d4-f30b-4f21-adaf-69c063296f36,,,Signature du médecin,Doctor's signature,Signature du médecin,Doctor's signature,Misc,Text,
+
+6c82a7de-25c4-4a13-9b66-5012131f4c65,"Name of the insured;Company;Business sector;Insured's registration number;Patient's Name;Patient's date of birth;Relationship of kinship;Outpatient consultations and care;Njombe, on;471c99d4-f30b-4f21-adaf-69c063296f36",,Demande de Bon de prise en charge,Request for Care Voucher,Demande de Bon de prise en charge,Request for Care Voucher,Misc,N/A,
