@@ -1,4 +1,6 @@
 uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1200
+a2065636-5326-40f5-aed6-0cc2cca81ccc,,,Oui full name,Yes full name,Oui,Yes,Misc,N/A,,
+b497171e-0410-4d8d-bbd4-7e1a8f8b504e,,,Non full name,No full name,Non,No,Misc,N/A,,
 4727b427-b8ac-4f8a-aa31-796e19d5ed1a,,Yes full name;No full name,Malnutrition,Malnutrition,Malnutrition,Malnutrition,Misc,Coded,,
 77c6d0f1-ad0d-4a02-8b5c-698e6e636d15,,Yes full name;No full name,Toux > 2 semaines,Cough > 2 weeks,Toux > 2 semaines,Cough > 2 weeks,Misc,Coded,,
 dcad76c8-699b-4648-b1db-d915b293d52b,,Yes full name;No full name,Fièvre > 2 semaines,Fever > 2 weeks,Fièvre > 2 semaines,Fever > 2 weeks,Misc,Coded,,
