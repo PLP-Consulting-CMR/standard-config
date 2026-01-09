@@ -112,11 +112,11 @@ a9d523e3-5a99-4878-94e5-9493452818e5,,,Plus d'1 mois,More than 1 month,Plus d'1 
 1e2acdcf-eb4a-4d3a-8eec-f3f4f1589a96,,,Date d'introduction de l'alimentation complémentaire,Date of introduction of complementary feeding,Date d'introduction de l'alimentation complémentaire,Date of introduction of complementary feeding,Misc,Date,,
 0a7cb1ae-aec0-4742-837d-7cd17a62a1c1,,"TDF+3TC+EFV ;TDF+3TC+DTG",ARV de la mère pendant l'allaitement,ARV of mother during breastfeeding,ARV de la mère pendant l'allaitement,ARV of mother during breastfeeding,Misc,Coded,,
 619a9177-1625-44d6-83e5-21501d3d272a,,,Si oui préciser,If yes specify,Si oui préciser,If yes specify,Misc,Text,,
-3efb279b-1352-4ec3-bd6c-a94b612e61f4,,Yes full name;No full name,Déparasitage,Deworming,Déparasitage,Deworming,Misc,Coded,,
+3efb279b-1352-4ec3-bd6c-a94b612e61f4,,Yes full name;No full name,Déparasitage?,Deworming?,Déparasitage,Deworming,Misc,Coded,,
 a223f984-eaf8-4c5e-b886-f3fb1951e3d1,,Yes full name;No full name,MILDA Utilisée,LLIN Used,MILDA Utilisée,LLIN Used,Misc,Coded,,
 a015aa57-0da7-4222-a4ed-5e3fed027a50,,Yes full name;No full name,ARV pour l'enfant pendant l'allaitement,ARVs for the child during breastfeeding,ARV pour l'enfant pendant l'allaitement,ARVs for the child during breastfeeding,Misc,Coded,,
 
-e3710a07-7130-4ada-b4be-8a5c3851691a,Type of feeding;Weaning;Start date;End date;Weaning (Duration);Date of introduction of complementary feeding;ARV of mother during breastfeeding;ARVs for the child during breastfeeding;If yes specify;Deworming;LLIN Used,,Alimentation du nourrisson,Infant Feeding,Alimentation du nourrisson,Infant Feeding,Misc,N/A,,
+e3710a07-7130-4ada-b4be-8a5c3851691a,Type of feeding;Weaning;Start date;End date;Weaning (Duration);Date of introduction of complementary feeding;ARV of mother during breastfeeding;ARVs for the child during breastfeeding;If yes specify;Deworming?;LLIN Used,,Alimentation du nourrisson,Infant Feeding,Alimentation du nourrisson,Infant Feeding,Misc,N/A,,
 377802ac-8386-4629-a8e2-9d8b70fb211c,HIV+ Pregnancy;a271bb6e-d4f0-457d-80bb-b360a2a65719;ARV in Mother;ARV in child;Infant Feeding,,2. PTME,2. PMTCT,2. PTME,2. PMTCT,Misc,N/A,,
 
 
