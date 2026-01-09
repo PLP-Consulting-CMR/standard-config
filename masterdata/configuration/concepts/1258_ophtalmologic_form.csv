@@ -1,0 +1,14 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1258
+
+41bcde57-b60d-4534-94fe-5788887ea946,,,Œil gauche(OG),EYE LEFT(EL),Œil gauche,EYE LEFT,Misc,Text,,
+abb1c7fb-9a7c-4ffe-822b-49a5e4d7b923,,,Œil droit(OD),EYE RIGHT(ER),Œil droit,EYE RIGHT,Misc,Text,,
+
+ef1ecc0d-77f6-441d-b392-5742ba6eb325,EYE LEFT(EL);EYE RIGHT(ER),,AVLAC,AVLAC,AVLAC,AVLAC,Misc,N/A,,
+effabd6f-b439-452b-84a1-762685d32be5,EYE LEFT(EL);EYE RIGHT(ER),,AVLSC,AVLSC,AVLSC,AVLSC,Misc,N/A,,
+4ee32e81-35c5-499c-bd3e-cff42b887269,AVLAC;AVLSC,,Acuité visuelle de loin et de près,Visual acuity for far and near,Acuité visuelle de loin et de près,Visual acuity for far and near,Misc,N/A,,
+4d363921-c4cc-4e2c-b345-66e3c47dc617,EYE LEFT(EL);EYE RIGHT(ER),,AVPSC,AVPSC,AVPSC,AVPSC,Misc,N/A,,
+dd6682b3-a3b4-4ef6-bd72-5231519ad5f0,EYE LEFT(EL);EYE RIGHT(ER),,AVPAC,AVPAC,AVPAC,AVPAC,Misc,N/A,,
+d8160340-b3a9-4d7a-87c7-4e35b69b55bb,AVPAC;AVPSC,,Acuité visuelle de près,Visual acuity for near,Acuité visuelle de près,Visual acuity for near,Misc,N/A,,
+5097067a-3361-474b-96b9-eb1bc8772061,EYE LEFT(EL);EYE RIGHT(ER),,Pression intra-oculaire(PIO),Intraocular pressure(IOP),Pression intra-oculaire(PIO),Intraocular pressure(IOP),Misc,N/A,,
+a7e2d6ba-e84c-48a7-82a5-dbbf8a887e80,,,Ordonnance des lunettes,Prescription of glasses,Ordonnance des lunettes,Prescription of glasses,Misc,Text,,
+b5403a12-0465-488e-8133-1d2cc3342e55,Visual acuity for far and near;Visual acuity for near;Intraocular pressure(IOP);Prescription of glasses,,Fiche Ophtalmologique,Ophtalmologic form,Fiche Ophtalmologique,Ophtalmologic form,Misc,N/A,,
