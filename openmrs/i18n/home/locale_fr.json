@@ -35,7 +35,6 @@
     "LOCATION_DERMATOLOGY": "Dermatologie",
     "LOCATION_PHYSIOTHERAPY": "Physiothérapie",
     "LOCATION_STOMATOLOGY": "Stomatologie",
-    "LOCATION_ANC": "CPN",
     "LOCATION_KINESIOLOGY": "Kinésiologie",
     "LOCATION_MAJOR_SURGERY": "Grande Chirurgie",
     "LOCATION_NEONATOLOGY": "Neonatologie",
@@ -117,6 +116,14 @@
     "LOCATION_MENTAL_HEALTH_SERVICE":"Service De Sante Mentale",
     "LOCATION_GYNECOLOGY_OPERATING_ROOM":"Block Operatoire Gynecologie",
     "LOCATION_NEONATOLOGY_AND_PREMATURITY":"Neonatalogie Et Premature",
-    "LOCATION_DIALYSIS":"Dialyse"
+    "LOCATION_DIALYSIS":"Dialyse",
+    "LOCATION_ANESTHESY_RESUSCITATION":"Anesthésie-Réanimation",
+    "LOCATION_OPERATION_THEATRE":"Bloc Operatoire",
+    "LOCATION_MEDECINE":"Medécine",
+    "LOCATION_PMI":"PMI",
+    "LOCATION_KINESITHERAPY":"Kinésitherapie",
+    "LOCATION_SAU":"SAU",
+    "LOCATION_PARAMETERS":"Paramètres"
+
 
 }

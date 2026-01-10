@@ -116,5 +116,12 @@
     "LOCATION_MENTAL_HEALTH_SERVICE":"Mental Health Service",
     "LOCATION_GYNECOLOGY_OPERATING_ROOM":"Gynecology Operating Room",
     "LOCATION_NEONATOLOGY_AND_PREMATURITY":"Neonatology And Prematurity",
-    "LOCATION_DIALYSIS":"Dialysis"
+    "LOCATION_DIALYSIS":"Dialysis",
+    "LOCATION_ANESTHESY_RESUSCITATION":"Anesthesy-Resuscitation",
+    "LOCATION_OPERATION_THEATRE":"Operation Theatre",
+    "LOCATION_MEDECINE":"Medecine",
+    "LOCATION_PMI":"PMI",   
+    "LOCATION_KINESITHERAPY":"Kinesitherapy",
+    "LOCATION_SAU":"SAU",
+    "LOCATION_PARAMETERS":"Parameters"
 }
