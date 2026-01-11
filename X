@@ -1,0 +1,9 @@
+
+# Veuillez saisir le message de validation pour vos modifications. Les lignes
+# commençant par '#' seront ignorées, et un message vide abandonne la validation.
+#
+# Sur la branche child_hiv_initial_form
+# Modifications qui seront validées :
+#	nouveau fichier : masterdata/configuration/concepts/1210_child_hiv_initial_form.csv
+#	modifié :         masterdata/configuration/concepts/1290_system_and_physical_exam_form.csv
+#
