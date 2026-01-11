@@ -1,0 +1,11 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1267
+f54c1b34-5359-45fd-96e2-b7f1d8a3c302,,,Date de la campagne,Date of the campaign,Date de la campagne,Date of the campaign,Misc,Date,,
+e8ba10e1-9740-43b3-b61e-3002a0b3d1bc,,,Frottis Cervical,Cervical Smear,Frottis Cervical,Cervical Smear,Misc,Text,,
+f9bcedee-ae1f-4920-9b05-a3ed0e01af51,,Positive;Negative,Test de Villi,Villi Test,Test de Villi,Villi Test,Misc,Coded,,
+451c4c37-a913-43e6-a22f-f25e7c789692,,,Test de Biopsie,Biopsy test,Test de Biopsie,Biopsy test,Misc,Text,,
+998078a6-4e1c-4cef-acb9-0c74a49c675f,,,Test de VIA,VIA Test,Test de VIA,VIA Test,Misc,Text,,
+193f7daa-bfba-4056-8427-b1ae9dc4dd79,VIA Test;Villi Test;Cervical Smear;Biopsy test,,col de l'utérus,Cervix,col de l'utérus,Cervix,Misc,N/A,,
+4fb2bace-9100-4db0-bad0-7a3b49c5e711,,,Sein Droit,Right breast,Sein Droit,Right breast,Misc,Text,,
+fca5849e-58cb-459f-8d2d-971ae8ca3828,,,Sein Gauche,Left breast,Sein Gauche,Left breast,Misc,Text,,
+166201AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Right breast;Left breast,,Sein,Breast,Sein,Breast,Misc,N/A,,
+d1a636fe-f6de-438b-9c8d-099f5ca687d9,Date of the campaign;Cervical Smear;Cervix;Breast,,Formulaire de Campagne de dépistage – Fiche de résultats,Screening Campaign Result Sheet Form,Campagne de dépistage – Fiche de résultats,Screening Campaign Result Sheet,Misc,N/A,,
