@@ -1,9 +1,9 @@
 uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1243
 ab379091-17f1-4ebb-9460-7a32431e4145,Address (text);166689AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA;166688AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,I. Identification du patient,I. Patient Identification,I. Identification du patient,I. Patient Identification,Misc,N/A,
-d459b3a0-89ea-4ca5-9641-4dd745110644,Family history;Medical history;Glaucoma?;Diabetes?;BPGO?;Gastritis?;Others(specify);Gyneco-Obstetric;Immuno-allergic and hematological;Transfusionnal;Toxicological:;Surgical and Anesthetic;,,"II. Antécédents, Terrains et Mode de vie","II. History, Background and Lifestyle","II. Antécédents, Terrains et Mode de vie","II. History, Background and Lifestyle",Misc,N/A,
 ec35e72a-a2f4-43e0-bc8d-04909928b306,,,Antécédents familiaux,Family history,Antécédents familiaux,Family history,Misc,Text,
+527d125d-7645-46e3-9ce3-947be86e76da,,,Antécédents Médicaux du Patient,Patient's Medical History,Antécédents Médicaux du Patient,Patient's Medical History,Misc,Text,
+d459b3a0-89ea-4ca5-9641-4dd745110644,Family history;Patient's Medical History;Glaucoma?;Diabetes?;BPGO?;Gastritis?;Others(specify);Gyneco-Obstetric;Immuno-allergic and hematological;Transfusionnal;Toxicological:;Surgical and Anesthetic;,,"II. Antécédents, Terrains et Mode de vie","II. History, Background and Lifestyle","II. Antécédents, Terrains et Mode de vie","II. History, Background and Lifestyle",Misc,N/A,
 89043359-ad35-49d8-834f-475e4854b3fe,,,Antécédents personnels,Personal history,Antécédents personnels,Personal history,Misc,Text,
-3cd7580f-6b1c-41f8-8964-9fcc5aac00d1,,,Antécédents médicaux,Medical history,Antécédents médicaux,Medical history,Misc,Text,
 1065AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,Oui,Yes,Oui,Yes,Misc,N/A,
 1066AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,Non,No,Non,No,Misc,N/A,
 4692cfac-f11a-4221-bcb4-f66ec57d5796,,,Glaucome ?,Glaucoma?,Glaucome ?,Glaucoma?,Misc,Boolean,
