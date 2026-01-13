@@ -1,0 +1,13 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1262
+6ef96eed-871f-4ea7-904d-e4d59358feb6,ART 1;ART 2,,ARV reçu par la mère,ART receive by the mother,ARV reçu par la mère,ART receive by the mother,Misc,N/A,,
+0ae0bf17-8bd8-4125-81e7-50d2908176f1,,,ARV 1,ART 1,ARV 1,ART 1,Misc,Text,,
+205bbf94-e215-47a1-abeb-fb11957720b1,,,ARV 2,ART 2,ARV 2,ART 2,Misc,Text,,
+77ddf911-0f9a-48bd-b8f5-13a65589dc1c,Date of birth;Birth weight (kg);1.Niverapine(Viramune),,ARV reçu par le bébé,ART received by the baby,ARV reçu par le bébé,ART received by the baby,Misc,N/A,,
+5cdc7d2f-db9d-4844-8d7f-4aba6677f2e5,,,1.Niverapine(Viramune),1.Niverapine(Viramune),1.Niverapine(Viramune),1.Niverapine(Viramune),Misc,Text,,
+e605731b-2e81-41a9-8446-2ed442c339e2,,,Date de prescription,Prescription date,Date de prescription,Prescription date,Misc,Date,,
+f2fc2eec-59db-4119-ba09-798928a91fe8,,,Quantité 08H,Quantity 8H,Quantité 08H,Quantity 8H,Misc,Text,,
+757aa181-cfdd-455b-a87c-0d570f5ce268,,,Quantité 20H,Quantity 20H,Quantité 20H,Quantity 20H,Misc,Text,,
+870c8a2d-6ff8-4fc7-8783-c42c8324d32a,,,Émargement,Signing off,Émargement,Signing off,Misc,Text,,
+a0b91354-61cc-4434-a814-cd7f927fa711,,,Cachet et signature,Stamp and signature,Cachet et signature,Stamp and signature,Misc,Text,,
+ef3fe613-951b-49ca-b708-d13e860867a5,Prescription date;Quantity 8H;Stamp and signature;Quantity 20H;Stamp and signature,,2.Zidovudine(Zidovir),2.Zidovudine(Zidovir),2.Zidovudine(Zidovir),2.Zidovudine(Zidovir),Misc,N/A,,
+4b6f951e-5677-499f-8846-48ded813256a,ART receive by the mother;ART received by the baby;2.Zidovudine(Zidovir),,Fiche de traitement ARV des nouveaux-nés de mère séropositive,ART treatment sheet for newborns of HIV-positive mothers,Fiche de traitement ARV des nouveaux-nés de mère séropositive,ART treatment sheet for newborns of HIV-positive mothers,Misc,N/A,,
