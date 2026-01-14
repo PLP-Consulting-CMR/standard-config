@@ -1,0 +1,6 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1269
+d8a7d14b-74e9-4069-b689-270436134e1d,,,Nom du médecin,Physician’s name,Nom du médecin,Physician’s name,Misc,Text,,
+bd4632e4-8093-4b2e-b52c-d79db64a37b0,,,AG,GA,AG,GA,Misc,Text,,
+7b88e743-c39f-44cb-8181-9c4eadcf2e12,,,Date d’accouchement,Date of delivery,Date d’accouchement,Date of delivery,Misc,Date,,
+5e3405e8-458e-4610-b3cd-658b6ad7735b,,,Date de l’examen,Date of Examination,Date de l’examen,Date of Examination,Misc,Date,,
+305a91a1-f30b-4e4c-8a8d-b009c91e5e41,Physician’s name;GA;Date of delivery;Date of Examination,,Certificat de Grossesse,Pregnancy Certificate Form,Certificat de Grossesse,Pregnancy Certificate Form,Misc,N/A,,

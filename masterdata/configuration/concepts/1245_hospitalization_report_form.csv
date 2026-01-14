@@ -1,0 +1,12 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_order:1245
+92149d3a-55b2-4ef9-8c04-773ebac8a1d3,,,Date d'entrée,Date of admission,Date d'entrée,Date of admission,Misc,Date,,
+531b1547-b24e-47b7-a86c-08e2bd3c2d09,,,Diagnostic d'entrée,Input diagnostics,Diagnostic d'entrée,Input diagnostics,Misc,Text,,
+2bf2b325-d8b4-46bb-afcf-97e81af48cde,,,Diagnostic d'admission,Admission diagnosis,Diagnostic d'admission,Admission diagnosis,Misc,Text,,
+5d363a24-ae88-4098-aab5-77dbaa0f25df,,,Nom médecin traitant,Attending physician name,Nom médecin traitant,Attending physician name,Misc,Text,,
+7fd0db9f-7c06-47ad-a785-c48abad1eefa,,,Compte-rendu du traitement et de l'évolution,Treatment and progress report,Compte-rendu du traitement et de l'évolution,Treatment and progress report,Misc,Text,,
+16455295-f1b9-495f-ab00-3ef42e854587,,,Date de sortie,Date of discharge,Date de sortie,Date of discharge,Misc,Date,,
+a19fddc7-4833-4f54-be1e-9af92fa82871,,,Diagnostic de sortie,Discharge diagnosis,Diagnostic de sortie,Discharge diagnosis,Misc,Text,,
+64ee822b-6755-49fc-9424-e6be6974c4e0,,,Traitement de sortie,Discharge treatment,Traitement de sortie,Discharge treatment,Misc,Text,,
+f735faae-f94e-4fbd-9dd0-de0b7a8d70f3,,,Rendez-vous,Follow-up appointment,Rendez-vous,Follow-up appointment,Misc,Text,,
+85309e5f-6bb8-487e-b78e-cfa34eaad1a4,,,"Njombé, le","Njombe, on","Njombé, le","Njombé, on",Misc,Text,,
+00241cf5-bdd3-4f1e-ab94-ef3be0361845,"Date of admission;Input diagnostics;Admission diagnosis;Attending physician name;Treatment and progress report;Date of discharge;Discharge diagnosis;Discharge treatment;Follow-up appointment;Njombe, on",,Compte-rendu d'hospitalisation,Hospitalization report,Compte-rendu d'hospitalisation,Hospitalization report,Misc,N/A,
