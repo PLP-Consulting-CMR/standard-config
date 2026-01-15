@@ -1,0 +1,5 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Data class,Data type,Answers,Members,_version:1,_order:4000
+0e06ea24-8f2e-4edf-b248-0c77d1a364cf,,,Cortisol (plasma) 8 AM,Cortisol (plasma) 8h,Cortisol (plasma) 8 AM,Cortisol (plasma) 8h,Cortisol (plasma) 8 AM,LabTest,Numeric,,,,
+36fa3051-c452-4f3a-a159-10276043285e,,,Cortisol (plasma) 4 PM,Cortisol (plasma) 16h,Cortisol (plasma) 4 PM,Cortisol (plasma) 16h,Cortisol (plasma) 4 PM,LabTest,Numeric,,,,
+ea7b5691-f7fd-4a5d-a566-325b8280e084,,,OESTRADIOL,OESTRADIOL,OESTRADIOL,OESTRADIOL,OESTRADIOL,LabTest,Text,,,,
+f8ba4049-65ad-41d9-9d60-196f3fb848e5,,,CORTISOL,CORTISOL,CORTISOL,CORTISOL,CORTISOL,Specimen,N/A,,0e06ea24-8f2e-4edf-b248-0c77d1a364cf;36fa3051-c452-4f3a-a159-10276043285e;ea7b5691-f7fd-4a5d-a566-325b8280e084,,

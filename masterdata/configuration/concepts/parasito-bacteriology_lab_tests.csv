@@ -1,0 +1,8 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Data class,Data type,Answers,Members,_version:1,_order:4000
+f4b5589e-5730-42d1-8325-c2354d098908,,,Scotch-Test,Test du scotch,Scotch-Test,Test du scotch,Scotch-Test,LabTest,Text,,,,
+fe223ec3-e87b-4ec6-a77c-376e500a8e33,,,Bacteria (Skin sample),Bactérie (Cutané),Bacteria,Bactérie,Bacteria (Skin sample),LabTest,Text,,,,
+bcd9d6cb-8cff-4f0e-82e4-4869d291365a,,,Fungi (Skin sample),Champignons (Cutané),Fungi,Champignons,Fungi (Skin sample),LabTest,Text,,,,
+5a16b4fd-a04e-4d90-a5e3-1ef8780f9b92,,,Atypical Mycobacteria (Skin sample),Mycobactéries atypiques (Cutané),Atypical Mycobacteria,Mycobactéries atypiques,Atypical Mycobacteria (Skin sample),LabTest,Text,,,,
+fbcc7255-70c9-47d2-a5f2-20cf9062c158,,,Other Microorganisms (Skin sample),Autres Micro-organismes (Cutané),Other Microorganisms,Autres Micro-organismes,Other Microorganisms (Skin sample),LabTest,Text,,,,
+3c1ab8c2-87eb-4eb3-af3c-8881df7cb267,,,Hemoparasites / Rapid Malaria Test / HP,Hémoparasites / Goutte épaisse / HP,Hemoparasites,Hémoparasites,Hemoparasites / Rapid Malaria Test / HP,LabTest,Text,,,,
+6ae0e78b-3178-4e4c-bfe6-6a4cce70a5d5,,,SKIN SAMPLE,Échantillon cutané,SKIN SAMPLE,Échantillon cutané,SKIN SAMPLE,Specimen,N/A,,fe223ec3-e87b-4ec6-a77c-376e500a8e33;bcd9d6cb-8cff-4f0e-82e4-4869d291365a;5a16b4fd-a04e-4d90-a5e3-1ef8780f9b92;fbcc7255-70c9-47d2-a5f2-20cf9062c158,,,,
