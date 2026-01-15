@@ -28,7 +28,6 @@
     "LOCATION_SURGERY_ANESTHESIA": "Surgery-Anesthesia",
     "LOCATION_CASH_DESK": "Cash Desk",
     "LOCATION_ART_DISPENSATION": "ART Dispensary",
-    "LOCATION_POST_NATAL_CARE": "Post Natal Care",
     "LOCATION_SPECIALIZED_CONSULTATIONS": "Specialized Consultations",
     "LOCATION_DENTAL_MEDECINE": "Dental Medecine",
     "LOCATION_MINOR_SURGERY": "Minor Surgery",
@@ -116,5 +115,10 @@
     "LOCATION_MENTAL_HEALTH_SERVICE":"Mental Health Service",
     "LOCATION_GYNECOLOGY_OPERATING_ROOM":"Gynecology Operating Room",
     "LOCATION_NEONATOLOGY_AND_PREMATURITY":"Neonatology And Prematurity",
-    "LOCATION_DIALYSIS":"Dialysis"
+    "LOCATION_DIALYSIS":"Dialysis",
+    "LOCATION_RECEPTION_AND_EMERGENCY_SERVICES":"Reception and Emergency Services(RES)",
+	"LOCATION_PARAMETERS":"Parameters",
+	"LOCATION_MAXILLO_FACIAL_SURGERY":"Maxillo-Facial Surgery",
+	"LOCATION_KINESITHERAPY":"Kinesitherapy",
+	"LOCATION_MEDECINE":"Medecine"
 }
