@@ -1,0 +1,15 @@
+uuid,Members,Answers,Fully specified name:fr,Fully specified name:en,Short name:fr,Short name:en,Data class,Data type,_version:1,_order:1242
+d2e4214a-54f0-4b97-b674-d7e605816af8,,,Je soussigné(e),I undersigned,Je soussigné(e),I undersigned,Misc,Text,,
+fd89c7c5-6292-429f-8932-2a839831d5e4,,,CNI N°,ID NIC, CNI N°,ID NIC,Misc,Text,,
+a42758e4-4f59-4ea9-b356-fe1e2bcfd1e6,,,Délivré le,Issued on,Délivré le,Issued on,Misc,Date,,
+45af2a95-b49c-42dd-af9e-cfe293d411f8,,,Qualité de (lien),Quality of (link),Qualité de (lien),Quality of (link),Misc,Text,,
+f1dd5033-4a0b-4167-9f36-4d9b3fd1b831,,,Décide de sortir/faire sortir,Decide to discharge/discharge,Décide de sortir/faire sortir,Decide to discharge/discharge,Misc,Text,,
+161557a9-a92b-4943-bae2-3ac478a8bc6d,,,M. / Mme,Mr. / Mrs.,M. / Mme,Mr. / Mrs.,Misc,Text,,
+3000e4c0-91ef-4bb1-847b-896a47d902f8,,,Sur ma propre initiative et contre l'avis du médécin traitant,On my own initiative and against the advice of the attending physician,Sur ma propre initiative et contre l'avis du médécin traitant,On my own initiative and against the advice of the attending physician,Misc,Text,,
+19921404-82e2-429a-9da6-89aa90cfa9f8,,,Fait à Njombé le,Done at Njombe on,Fait à Njombé le,Done at Njombe on,Misc,Date,,
+8307a031-7d92-48d9-a7d1-fe23b2ee25cf,,,Signature ou empreintes digitales,Signature or fingerprints,Signature ou empreintes digitales,Signature or fingerprints,Misc,Text,,
+216757c1-fca1-45e9-b6df-48ea9a560c57,,,Age,Age,Age,Age,Misc,Numeric,,
+607bf8ad-75ff-4b1c-afbc-59174f77a87b,I undersigned;Address (text);ID NIC;Issued on;Quality of (link);Decide to discharge/discharge;Mr. / Mrs.;216757c1-fca1-45e9-b6df-48ea9a560c57;3000e4c0-91ef-4bb1-847b-896a47d902f8;Done at Njombé on;Signature or fingerprints,,Certificat de sortie contre avis médical,Exit certificate against medical advice,Certificat de sortie contre avis médical,Exit certificate against medical advice,Misc,N/A,,
+
+
+
