@@ -199,7 +199,12 @@
   "LOCATION_MENTAL_HEALTH_SERVICE":"Service De Sante Mentale",
   "LOCATION_GYNECOLOGY_OPERATING_ROOM":"Block Operatoire Gynecologie",
   "LOCATION_NEONATOLOGY_AND_PREMATURITY":"Neonatalogie Et Premature",
-  "LOCATION_DIALYSIS":"Dialyse"
+  "LOCATION_DIALYSIS":"Dialyse",
+  "LOCATION_RECEPTION_AND_EMERGENCY_SERVICES(RES)":"Services Accueil et Urgences(SAU)",
+  "LOCATION_PARAMETERS":"Paramètres",
+  "LOCATION_MAXILLO_FACIAL_SURGERY":"Chirurgie Maxilo-faciale",
+  "LOCATION_KINESITHERAPY":"Kinésitherapie",
+  "LOCATION_MEDECINE":"Medécine"
 
 
 }
