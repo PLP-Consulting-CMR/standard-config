@@ -89,6 +89,11 @@
   "LOCATION_MENTAL_HEALTH_SERVICE":"Mental Health Service",
   "LOCATION_GYNECOLOGY_OPERATING_ROOM":"Gynecology Operating Room",
   "LOCATION_NEONATOLOGY_AND_PREMATURITY":"Neonatology And Prematurity",
-  "LOCATION_DIALYSIS":"Dialysis"
+  "LOCATION_DIALYSIS":"Dialysis",
+  "LOCATION_RECEPTION_AND_EMERGENCY_SERVICES":"Reception and Emergency Services(RES)",
+	"LOCATION_PARAMETERS":"Parameters",
+	"LOCATION_MAXILLO_FACIAL_SURGERY":"Maxillo-Facial Surgery",
+	"LOCATION_KINESITHERAPY":"Kinesitherapy",
+	"LOCATION_MEDECINE":"Medecine"
 
 }
