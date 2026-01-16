@@ -1,0 +1,9 @@
+
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Data class,Data type,Answers,Members,_version:1,_order:4000
+b1c2d3e4-1111-5678-9abc-def012345001,,,CSF parasitology,Parasitologie LCR,CSF parasitology,Parasitologie LCR,Cerebrospinal fluid parasitology test,LabTest,Text,,,,
+b1c2d3e4-2222-5678-9abc-def012345002,,,Coprology,Coprologie,Coprology,Coprologie,Stool examination for parasites,LabTest,Text,,,,
+b1c2d3e4-3333-5678-9abc-def012345003,,,Rapid Diagnosis Malaria Test,Test de diagnostic rapide du paludisme,Rapid Malaria Test,Test rapide paludisme,Rapid diagnostic test for malaria,LabTest,Coded,Positive;Negative,,,
+b1c2d3e4-4444-5678-9abc-def012345004,,,Malaria Test (GE),Test de paludisme (GE),Malaria GE,GE paludisme,Malaria test thick blood smear,LabTest,Coded,Positive;Negative,,,
+b1c2d3e4-5555-5678-9abc-def012345005,,,Skin snip test,Test de scarification cutanée,Skin snip test,Scarification cutanée,Skin snip test for onchocerciasis,LabTest,Text,,,,
+b1c2d3e4-6666-5678-9abc-def012345006,,,Filaria Test (Blood),Test sanguin filariose,Filaria Blood Test,Test filariose,Blood test for filariasis,LabTest,Coded,Positive;Negative,,,
+b1c2d3e4-7777-5678-9abc-def012345007,,,Trypanosoma Test,Test trypanosomiase,Trypanosoma Test,Test trypanosome,Blood test for trypanosomiasis,LabTest,Coded,Positive;Negative,,,
