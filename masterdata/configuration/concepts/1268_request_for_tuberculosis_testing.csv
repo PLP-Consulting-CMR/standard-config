@@ -7,7 +7,8 @@ d8bcb291-7947-49e1-a5ab-3ae8a2e79713,,,Téléphone 1,Phone 1,Téléphone 1,Phone
 d2ee442d-3501-4c71-936b-781a3c28625b,,,Service/Lit(Adresse),Service/bed(Address),Service/Lit(Adresse),Service/bed(Address),Misc,Text,,
 233c1058-d432-4b25-afe4-1201dceb32ee,,,Oui/Y,Yes full name,Oui/Y,Yes full name,Misc,N/A,,
 0bdc857c-bf86-4b74-9f1a-7063eb5cba9a,,,Non/N,No full name,Non/N,No full name,Misc,N/A,,
-e4cd8d18-9af1-4e78-8361-0682a43f38a3,,Yes full name;No full name;1067AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Résultat VIH,HIV result,Résultat VIH,HIV result,Misc,coded,,
+e4cd8d18-9af1-4e78-8361-0682a43f38a3,,233c1058-d432-4b25-afe4-1201dceb32ee;0bdc857c-bf86-4b74-9f1a-7063eb5cba9a;1067AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Résultat VIH,HIV result,Résultat VIH,HIV result,Misc,coded,,
+
 2975a776-a4cb-4323-aa0f-43ee0a67ebc2,,,Pulmonaire,Pulmonary,Pulmonaire,Pulmonary,Misc,N/A,,
 5dcd9f36-9688-4b92-b42b-6c1e0300ff87,,,Extra pulmonaire,Extra Pulmonary,Extra pulmonaire,Extra Pulmonary,Misc,N/A,,
 2ee8b098-8bc3-4d69-8afe-04a71b04f513,,Pulmonary;Extra Pulmonary,Type de TB,Type of TB,Type de TB,Type of TB,Misc,coded,,
