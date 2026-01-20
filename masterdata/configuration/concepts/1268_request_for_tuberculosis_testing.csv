@@ -19,7 +19,7 @@ d6143ccd-f600-450d-add5-b1ee60179532,,,Externe,Extern,Externe,Extern,Misc,N/A,,
 5661bfa2-44e5-4feb-acfb-6e7cdae41b1d,,,Patient sous TAR,Patient on ART, Patient sous TAR,Patient on ART,Misc,N/A,,
 094994ac-6987-4480-9247-72bd2e1bb66e,,,Diabétique,Diabetic,Diabétique,Diabetic,Misc,N/A,,
 8bf2f0b6-66bf-4529-8b9d-40efe44a3188,,,Mal nourri,Malnourished,Mal nourri,Malnourished,Misc,N/A,,
-881b6b30-a02d-43ad-b4dd-5194e0b7f064,,,Autres,Others,Autres,Others,Misc,N/A,,
+ef5d7595-87f6-4814-95e0-41533a517783,,,Autres,Others,Autres,Others,Misc,N/A,,
 6d1bedd8-058f-4bdb-9124-a68a9cd8b591,,Hospitalized;Extern;Child;Initiation of ART;Patient on ART;Malnourished;Others,Catégorie(s),Category(ies),Catégorie(s),Category(ies),Misc,coded,,
 
 fb843f45-e83c-4af6-994f-dfd9b026f55d,,Cough(C);Nocturnal sweat;Weight Loss(WL);Febrile(Fever);Other(precise),Symptômes,Symptoms,Symptômes,Symptoms,Misc,coded,,
@@ -55,7 +55,7 @@ eca2a82d-5aeb-4216-a78c-3c9893b82f5f,,,Reprise,Reappearance,Reprise,Reappearance
 51b9ba0d-6433-4bb4-a2db-ae251e8ed4ef,,,Contact d'un patient TB,Contact of a TB patient,Contact d'un patient TB,Contact of a TB patient,Misc,N/A,,
 1267b024-fd17-496b-815a-aed7a44273b7,,,Contact d'un TB-MR,Contact of a TB-MR patient,Contact d'un TB-MR,Contact of a TB-MR patient,Misc,N/A,,
 
-097fe21b-c89f-4c33-81be-289d5baddd2e,,,Autres ?,Others?,Autres ?,Others?,Misc,N/A,,
+097fe21b-c89f-4c33-81be-289d5baddd2e,,,Autres ?,Others?,Autres ?,Others?,Misc,Text,,
 7be4e633-ab67-454d-a8d4-05998ed9b43e,Full name;Tel;Email;Comments;Request date,,Personnel prescripteur,Staff Prescriber,Personnel prescripteur,Staff Prescriber,Misc,N/A,,
 b0645a4e-393e-46ca-a1c7-586f9cbc53d6,,,Nom complet,Full name,Nom complet,Full name,Misc,Text,,
 12333a1a-71d5-4abb-ab26-51f64f547632,,,Tél,Tel,Tél,Tel,Misc,Text,,
