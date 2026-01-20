@@ -1,0 +1,2 @@
+property,value,description
+bahmni.relationshipTypeMap,"{""patient"":[""Parent"",""Sibling""],""provider"":[""Doctor""]}",Maps relationship labels to search behavior
