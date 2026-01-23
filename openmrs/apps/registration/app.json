@@ -22,6 +22,7 @@
   ],
   "contextModel": ["patientUuid", "activeVisitUuid"],
   "config": {
+    "showEnterID": false,
     "patientInformation": {
       "additionalPatientInformation": {
         "title": "Additional Patient Information",
