@@ -1,0 +1,5 @@
+Uuid,Members,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Data class,Data type,_version:1,_order:1010
+160432AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Dead,Mort,Dead,Mort,Misc,N/A,,
+5b86693e-9df0-49af-a58f-c50fc0247ed0,,Lost to follow up,Perdu de vue,Lost to follow up,Perdu de vue,Misc,N/A,,
+c53ea2a6-4d8f-4f3d-b6b1-f8eeda8864b4,,Refused (Stopped) Treatment,Refusé (Arrêté) le traitement,Refused (Stopped) Treatment,Refusé (Arrêté) le traitement,Misc,N/A,,
+1ee9e754-d595-49d9-b22c-8808a298ae4b,160432AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA;159492AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA;5b86693e-9df0-49af-a58f-c50fc0247ed0;c53ea2a6-4d8f-4f3d-b6b1-f8eeda8864b4,HIV Outcomes,Résultat du programme VIH,HIV Outcomes,Résultat du programme VIH,Misc,N/A,,
