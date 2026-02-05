@@ -124,12 +124,16 @@
     "LOCATION_MAXILLO_FACIAL_SURGERY":"Chirurgie Maxilo-faciale",
     "LOCATION_KINESITHERAPY":"Kinésitherapie",
     "LOCATION_MEDECINE":"Medécine",
+    "LOCATION_OPD_PHP" : "Consultation PHP",
+    "LOCATION_PARAMETER_PHP": "Paramètres PHP",
+
     "FOOTER_DISPLAY_TEX_KEY": "Bahmni • Hôpital Saint Jean de Malte • © 2026 République du Cameroun",
     "MINISTRY_HEALTH_CAMEROON": "Ministère de la Santé Publique du Cameroun",
     "DIRECTION_HEALTH_CAMEROON": "Ministry of Public Health of Cameroon",
     "HOSPITAL_SAINT_JEAN_DE_MALTE": "Hôpital Saint Jean de Malte",
     "CHOOSE_LANGUAGE": "Choisissez la langue",
-    "CONNEXION": "Connexion"
+    "CONNEXION": "Connexion",
+    "SERVICES": "Services Disponibles"
 
 
 }

@@ -39,5 +39,6 @@
   "emergencyContactRelationship": "Emergency Contact Relationship",
 
   "REGISTRATION_EDUCATION_DETAILS_KEY": "Level of Education",
-  "REGISTRATION_OCCUPATION_KEY": "Occupation"
+  "REGISTRATION_OCCUPATION_KEY": "Occupation",
+  "REGISTRATION_SERVICE_REQUIRED_KEY": "Services required"
 }
