@@ -60,7 +60,7 @@
     "defaultIdentifierPrefix": "GAN",
     "defaultVisitType": "OPD",
     "searchByIdForwardUrl": "/patient/{{patientUuid}}",
-    "showMiddleName": true,
+    "showMiddleName": false,
     "showLastName": true,
     "isLastNameMandatory": true,
     "patientNameDisplayOrder": ["firstName", "middleName", "lastName"],
@@ -102,21 +102,23 @@
       }
     },
     "fieldValidation": {
-      "email": {
-        "pattern": "^(?=.{1,40}$)(([^<>()\\[\\]\\\\.,;:\\s@\"]+(\\.[^<>()\\[\\]\\\\.,;:\\s@\"]+)*)|(\".+\"))@(([a-zA-Z\\-0-9]+\\.)+[a-zA-Z]{2,4})$",
-        "errorMessage": "Should be a valid email address"
+  "email": {
+      "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+      "errorMessage": "REGISTRATION_EMAIL_INVALID_FORMAT_KEY",
+      "required": false
+  
       },
       "familyName": {
-        "pattern": "[a-zA-Z]{0,}",
-        "errorMessage": "The last name should contain only alphabets without space."
+        "pattern": ".*",
+        "errorMessage": ""
       },
       "givenName": {
-        "pattern": "[a-zA-Z]{0,}",
-        "errorMessage": "The first name should contain only alphabets without space."
+        "pattern": ".*",
+        "errorMessage": ""
       },
       "middleName": {
-        "pattern": "[a-zA-Z]{0,}",
-        "errorMessage": "The Middle name should contain only alphabets without space."
+        "pattern": ".*",
+        "errorMessage": ""
       },
       "address1": {
         "pattern": "^[a-zA-Z0-9\\s'\\-\\/]{1,}",
@@ -137,10 +139,6 @@
         "placeholder": "Phone Number",
         "fields": ["phoneNumber", "alternatePhoneNumber"]
       }
-    },
-    "addressHierarchy": {
-      "showAddressFieldsTopDown": false,
-      "strictAutocompleteFromLevel": "postalCode"
     }
   }
 }
