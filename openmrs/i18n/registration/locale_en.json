@@ -12,13 +12,13 @@
   "REGISTRATION_CASTE_TEXT_ERROR_KEY": "Caste should contain only alphanumeric characters",
   "REGISTRATION_BRING_CARD_TEXT_KEY": "It is quite important to bring the card to the hospital.",
   "REGISTRATION_TAKE_MEDICINES_TEXT_KEY": "Take medicines according to instructions of the doctor.",
-  "REGISTRATION_TIMINGS_TEXT_KEY": "Registration Timings are from 8:30 am to 12:00 pm.",
+  "REGISTRATION_TIMINGS_TEXT_KEY": "Registration Timings are from 6:30 am to 5:30 pm.",
   "REGISTRATION_OPD_DAYS_TEXT_KEY": "OPD days are on Monday, Wednesday, Friday.",
   "REGISTRATION_SUNDAYS_HOLIDAY_TEXT_KEY": "Sundays are holidays.",
   "REGISTRATION_SMOKING_INJURIOUS_TEXT_KEY": "Smoking, Tobacco chewing can cause cancer, heart diseases and ASTHMA.",
-  "REGISTRATION_INSTITUTE_NAME_TEXT_KEY": "Jan Swasthya Sahyog",
+  "REGISTRATION_INSTITUTE_NAME_TEXT_KEY": "HSJM",
   "REGISTRATION_INSTITUTE_REGISTERED_TEXT_KEY": "(Registered)",
-  "REGISTRATION_INSTITUTE_ADDRESS": "Ganiyari, District - Bilaspur",
+  "REGISTRATION_INSTITUTE_ADDRESS": "Njombe, District - Littoral",
   "FEE_INFORMATION_LOCALE_KEY": "Fee Information",
   "NUTRITIONAL_VALUES_LOCALE_KEY": "Nutritional Values",
   "REGISTRATION_PRINT_WITH_BARCODE": "Bar<u>c</u>ode Print",
@@ -38,7 +38,19 @@
   "emergencyContactName": "Emergency Contact Name",
   "emergencyContactRelationship": "Emergency Contact Relationship",
 
+  "CLINICAL_YEARS_TRANSLATION_KEY": "Year(s)",
   "REGISTRATION_EDUCATION_DETAILS_KEY": "Level of Education",
   "REGISTRATION_OCCUPATION_KEY": "Occupation",
-  "REGISTRATION_SERVICE_REQUIRED_KEY": "Services required"
+  "REGISTRATION_EMAIL_INVALID_FORMAT_KEY": "Please enter a valid email address (e.g., user@example.com)",
+  "REGISTRATION_SERVICE_REQUIRED_KEY": "Services required",
+  
+  "REGISTRATION_NOTICE_HEADER_KEY": "Notice",
+  "REGISTRATION_CAUTION_HEADER_KEY": "Caution",
+  "REGISTRATION_DATED_LABEL_KEY": "Dated",
+  "REGISTRATION_LABEL_KEY": "Registration",
+  "REGISTRATION_NAME_LABEL_KEY": "Name",
+  "REGISTRATION_AGE_LABEL_KEY": "Age",
+  "REGISTRATION_GENDER_LABEL_KEY": "Gender",
+  "REGISTRATION_ADDRESS_LABEL_KEY": "Address",
+  "REGISTRATION_VILLAGE_LABEL_KEY": "Village"
 }
