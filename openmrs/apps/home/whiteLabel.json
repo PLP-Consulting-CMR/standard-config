@@ -16,22 +16,22 @@
 		{
 			"enabled": true,
 			"name": "clinicalService",
-			"title": "Clinical Service",
-			"logo": "/bahmni/images/app.png",
+			"title": "SERVICE CLINIQUE",
+			"logo": "bahmni/images/icon-clinique.png",
 			"link": "/bahmni/home"
 		},
 		{
 			"enabled": true,
 			"name": "openelis",
-			"title": "Laboratory",
-			"logo": "/bahmni/images/lab.png",
+			"title": "LABORATOIRE",
+			"logo": "/bahmni/images/icon-labo.png",
 			"link": "/openelis"
 		},
 		{
 			"enabled": true,
 			"name": "odoo",
-			"title": "Stock Inventory & Billing",
-			"logo": "/bahmni/images/bills.png",
+			"title": "INVENTAIRE & FACTURATION",
+			"logo": "/bahmni/images/icon-inventaire.png",
 			"linkPrefix": "erp"
 		},
 		{
@@ -44,22 +44,22 @@
 		{
 			"enabled": true,
 			"name": "connect",
-			"title": "Connect",
-			"logo": "/bahmni/images/connect.png",
+			"title": "CONNECT",
+			"logo": "/bahmni/images/connect.webp",
 			"link": "/bahmni-connect"
 		},
 		{
 			"enabled": true,
 			"name": "dcm",
-			"title": "Radiology",
-			"logo": "/bahmni/images/pac.png",
+			"title": "RADIOLOGY",
+			"logo": "/bahmni/images/radio.jpg",
 			"link": "/dcm4chee-web3"
 		},
 		{
 			"enabled": true,
 			"name": "metabase",
-			"title": "Analytics",
-			"logo": "/bahmni/images/analytics.png",
+			"title": "ANALYSE & RAPPORT",
+			"logo": "/bahmni/images/analyse.webp",
 			"link": "/metabase"
 		}
 	]

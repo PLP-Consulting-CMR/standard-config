@@ -15,6 +15,9 @@
     "MODULE_LABEL_BED_MANAGEMENT_KEY": "Gestion des lits",
     "MODULE_LABEL_LAB_ENTRY_KEY": "Entrée laboratoire",
 
+    "LOGIN_PAGE_TITLE_TEXT": "⚕️ HSJM EMR - Njombé, Cameroun",
+    "LOGIN_PAGE_HEADER_TEXT": "HÔPITAL SAINT JEAN DE MALTE",
+
     "LOCATION_HOSPITAL": "Hopital de la Cité Verte",
     "LOCATION_ART": "UPEC Clinique",
     "LOCATION_EMERGENCY": "Urgences",
@@ -120,7 +123,13 @@
     "LOCATION_PARAMETERS":"Paramètres",
     "LOCATION_MAXILLO_FACIAL_SURGERY":"Chirurgie Maxilo-faciale",
     "LOCATION_KINESITHERAPY":"Kinésitherapie",
-    "LOCATION_MEDECINE":"Medécine"
+    "LOCATION_MEDECINE":"Medécine",
+    "FOOTER_DISPLAY_TEX_KEY": "Bahmni • Hôpital Saint Jean de Malte • © 2026 République du Cameroun",
+    "MINISTRY_HEALTH_CAMEROON": "Ministère de la Santé Publique du Cameroun",
+    "DIRECTION_HEALTH_CAMEROON": "Ministry of Public Health of Cameroon",
+    "HOSPITAL_SAINT_JEAN_DE_MALTE": "Hôpital Saint Jean de Malte",
+    "CHOOSE_LANGUAGE": "Choisissez la langue",
+    "CONNEXION": "Connexion"
 
 
 }
