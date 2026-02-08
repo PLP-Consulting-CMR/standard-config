@@ -39,7 +39,7 @@
   "emergencyContactRelationship": "Emergency Contact Relationship",
 
   "CLINICAL_YEARS_TRANSLATION_KEY": "Year(s)",
-  "REGISTRATION_EDUCATION_DETAILS_KEY": "Level of Education",
+  "REGISTRATION_EDUCATION_DETAILS_KEY ": "Level of Education",
   "REGISTRATION_OCCUPATION_KEY": "Occupation",
   "REGISTRATION_EMAIL_INVALID_FORMAT_KEY": "Please enter a valid email address (e.g., user@example.com)",
   "REGISTRATION_SERVICE_REQUIRED_KEY": "Services required",
