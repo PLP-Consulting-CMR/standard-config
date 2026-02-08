@@ -39,7 +39,7 @@
   "emergencyContactRelationship": "Relation du contact d'urgence",
 
   "CLINICAL_YEARS_TRANSLATION_KEY": "an(s)",
-  "REGISTRATION_EDUCATION_DETAILS_KEY": "Niveau d'études",
+  "REGISTRATION_EDUCATION_DETAILS_KEY ": "Niveau d'études",
   "REGISTRATION_OCCUPATION_KEY": "Profession",
   "REGISTRATION_MATRIMONIAL_STATUS_KEY": "Statut matrimonial",
   "REGISTRATION_EMERGENCY_CONTACT_NUMBER_KEY": "Numéro de contact d'urgence",
