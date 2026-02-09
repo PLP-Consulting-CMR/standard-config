@@ -17,9 +17,9 @@
   "REGISTRATION_OPD_DAYS_TEXT_KEY": "Les jours de la consultation externe sont le lundi, le mercredi et le vendredi.",
   "REGISTRATION_SUNDAYS_HOLIDAY_TEXT_KEY": "Le dimanche est un jour férié.",
   "REGISTRATION_SMOKING_INJURIOUS_TEXT_KEY": "Fumer ou mâcher du tabac peut causer le cancer, les maladies cardiaques et l'asthme.",
-  "REGISTRATION_INSTITUTE_NAME_TEXT_KEY": "Jan Swasthya Sahyog",
+  "REGISTRATION_INSTITUTE_NAME_TEXT_KEY": "HSJM",
   "REGISTRATION_INSTITUTE_REGISTERED_TEXT_KEY": "(Immatriculé)",
-  "REGISTRATION_INSTITUTE_ADDRESS": "Ganiari, District - Bilaspur",
+  "REGISTRATION_INSTITUTE_ADDRESS": "Njombe, District - Littoral",
   "FEE_INFORMATION_LOCALE_KEY": "Informations sur les frais",
   "NUTRITIONAL_VALUES_LOCALE_KEY": "Valeurs nutritionnelles",
   "REGISTRATION_PRINT_WITH_BARCODE": "Imprimer avec code-barres",
@@ -40,7 +40,7 @@
   "emergencyContactRelationship": "Relation du contact d'urgence",
 
   "CLINICAL_YEARS_TRANSLATION_KEY": "an(s)",
-  "REGISTRATION_EDUCATION_DETAILS_KEY ": "Niveau d'études",
+  "REGISTRATION_EDUCATION_DETAILS_KEY": "Niveau d'études",
   "REGISTRATION_OCCUPATION_KEY": "Profession",
   "REGISTRATION_MATRIMONIAL_STATUS_KEY": "Statut matrimonial",
   "REGISTRATION_EMERGENCY_CONTACT_NUMBER_KEY": "Numéro de contact d’urgence",
@@ -48,7 +48,7 @@
   "REGISTRATION_EMERGENCY_CONTACT_RELATIONSHIP_KEY": "Lien avec le contact d’urgence",
 
 
-    "SAVE_CONFIRMATION_DIALOG_MESSAGE_KEY": "Vous pourriez avoir des modifications non enregistrées, veuillez choisir une option.",
+  "SAVE_CONFIRMATION_DIALOG_MESSAGE_KEY": "Vous pourriez avoir des modifications non enregistrées, veuillez choisir une option.",
   "SAVE_CONFIRMATION_OPTION_DONT_SAVE_KEY": "Ne pas enregistrer",
   "SAVE_CONFIRMATION_OPTION_CANCEL_KEY": "Annuler",
 
