@@ -1,3 +1,48 @@
 {
-  "MODULE_LABEL_RADIOLOGY_ORDERS_KEY": "Commandes de radiologie"
+  "MODULE_LABEL_RADIOLOGY_ORDERS_KEY": "Commandes de radiologie",
+
+
+  "userName": "nom d'utilisateur",
+    "password": "Mot de passe",
+    "location": "Emplacement",
+    "login": "S'identifier1",
+    "selectLocation": "Choisir emplacement",
+    "clinical_key": "Clinique",
+    "MESSAGE_DIALOG_OPTION_COPY": "Erreur de copie",
+    "MESSAGE_DIALOG_OPTION_OKAY": "OK",
+    "ORDERS_FORM_ERRORS_MESSAGE_KEY": "Entrez une valeur dans les champs obligatoires ou corrigez la valeur dans les champs en couleur pour continuer",
+    "DOB_LABEL": "Date de naissance",
+
+    "NO_RESULTS_FOUND": "Aucun résultat trouvé",
+  "PRIVILEGE_REQUIRED": "L’utilisateur est connecté mais n’a pas le privilège requis",
+  "NO_FULFILMENT_MESSAGE": "Aucune observation enregistrée pour cette demande.",
+  "NO_NAVIGATION_LINKS_AVAILABLE_MESSAGE": "Aucun lien de navigation disponible.",
+  "ACCEPT": "Accepter",
+  "SELECT_VALUE_FROM_AUTOCOMPLETE_DEFAULT_MESSAGE": "Veuillez sélectionner une valeur dans l’auto‑complétion",
+  "CONCEPT_NOT_FOUND_MESSAGE": "Concept non trouvé.",
+  "NO_OBS_FOUND_MESSAGE": "Aucune observation réalisée pour ce patient.",
+  "TIME_OF_BIRTH_LABEL": "Heure de naissance",
+  "PATIENT_PROFILE_RELATIONSHIPS_LABEL": "Relations",
+  "BROWSER_DOES_NOT_SUPPORT_VIDEO_TAG_MESSAGE": "Votre navigateur ne prend pas en charge la balise vidéo.",
+  "YEARS_LABEL": "Années",
+  "CHOOSE_ANSWER_FROM_DROPDOWN_LABEL": "Choisir une réponse",
+  "DELETE_LABEL": "Supprimer",
+  "EDIT_LABEL": "Modifier",
+  "NO_ORDERS_PRESENT": "Aucune commande de type {{orderType}} pour ce patient.",
+  "DEFAULT_SERVER_ERROR_MESSAGE": "Une erreur est survenue sur le serveur. Les informations n’ont pas été enregistrées.",
+  "VISIT_CLOSED_CREATE_NEW_ERROR_MESSAGE": "Visite déjà clôturée, créez une nouvelle visite pour exécuter la demande",
+
+  "NEW_ORDER_LABEL": "Nouveau",
+  "ORDER_DATE": "Date de l’ordonnance",
+  "ORDER_NAME": "Nom de l’ordonnance",
+  "CLINICAL_YEARS_TRANSLATION_KEY": "années",
+  "CLINICAL_MONTHS_TRANSLATION_KEY": "mois",
+  "CLINICAL_DAYS_TRANSLATION_KEY": "jours",
+  "GENDER_KEY": "Sexe :",
+  "AGE_KEY": "Âge :",
+  "DATE_OF_BIRTH_LABEL": "Date de naissance :",
+  "LOGOUT_TRANSLATION_KEY": "Déconnexion"
+
+
+
 }
