@@ -121,5 +121,17 @@
     "order": 11,
     "requiredPrivilege": "app:lab-lite",
     "target": "_blank"
+  },
+  
+  "admin": {
+    "id": "bahmni.admin",
+    "extensionPointId": "org.bahmni.home.dashboard",
+    "type": "link",
+    "translationKey": "MODULE_LABEL_ADMIN_KEY",
+    "url": "../admin/#/dashboard/home",
+    "icon": "icon-bahmni-admin",
+    "order": 12,
+    "requiredPrivilege": "app:admin",
+    "target": "_blank"
   }
 }

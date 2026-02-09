@@ -32,7 +32,15 @@
   "ADDRESSHIERARCHY_VILLAGE": "Quartier/ Villages",
   "ADDRESSHIERARCHY_PRECISE_LOCATION": "Localisation spécifique",
 
-  "REGISTRATION_EDUCATION_DETAILS_KEY": "Niveau d’éducation",
+  "education": "Niveau d'études",
+  "occupation": "Profession",
+  "matrimonialStatus": "Statut matrimonial",
+  "emergencyContactNumber": "Numéro de contact d'urgence",
+  "emergencyContactName": "Nom du contact d'urgence",
+  "emergencyContactRelationship": "Relation du contact d'urgence",
+
+  "CLINICAL_YEARS_TRANSLATION_KEY": "an(s)",
+  "REGISTRATION_EDUCATION_DETAILS_KEY ": "Niveau d'études",
   "REGISTRATION_OCCUPATION_KEY": "Profession",
   "REGISTRATION_MATRIMONIAL_STATUS_KEY": "Statut matrimonial",
   "REGISTRATION_EMERGENCY_CONTACT_NUMBER_KEY": "Numéro de contact d’urgence",

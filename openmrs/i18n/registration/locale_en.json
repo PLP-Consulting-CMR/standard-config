@@ -38,7 +38,8 @@
   "emergencyContactName": "Emergency Contact Name",
   "emergencyContactRelationship": "Emergency Contact Relationship",
 
-  "REGISTRATION_EDUCATION_DETAILS_KEY": "Level of Education",
+  "CLINICAL_YEARS_TRANSLATION_KEY": "Year(s)",
+  "REGISTRATION_EDUCATION_DETAILS_KEY ": "Level of Education",
   "REGISTRATION_OCCUPATION_KEY": "Occupation",
 
   "SAVE_CONFIRMATION_DIALOG_MESSAGE_KEY": "You may have unsaved changes, please choose an option.",
