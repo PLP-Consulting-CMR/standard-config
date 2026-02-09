@@ -50,7 +50,8 @@
         "extensionParams": {
             "conceptName": "Services",
             "translationKey": "REGISTRATION_SERVICE_REQUIRED_KEY",
-            "required":true
+            "required":true,
+            "showLatest": true
         },
         "order": 2,
         "requiredPrivilege": "Edit Visits"
