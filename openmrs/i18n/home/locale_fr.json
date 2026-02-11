@@ -125,6 +125,11 @@
 
 
     "BAHMNI_PAGE_TITLE_KEY": "Accueil Bahmni",
+    "DIRECTION_HEALTH_CAMEROON":"Ministère de la Santé Publique du Cameroun",
+    "MINISTRY_HEALTH_CAMEROON":"Cameroon Ministry of Public Health",
+    "CHOOSE_LANGUAGE":"Choisir la langue",
+    "HOSPITAL_SAINT_JEAN_DE_MALTE": "Hôpital Saint Jean de Malte",
+
     "LOGIN_LABEL_LOGIN_KEY": "Connexion",
     "LOGIN_LABEL_SUBMIT_KEY": "Envoyer",
     "LOGIN_LOCATION_SELECTION_LABEL_KEY": "Continuer",
