@@ -173,20 +173,9 @@
 "PATIENT_ATTRIBUTE_GIVEN_NAME_LOCAL": "Prénom en arabe",
 "PATIENT_ATTRIBUTE_FAMILY_NAME_LOCAL": "Nom de famille en arabe",
 "PATIENT_ATTRIBUTE_MIDDLE_NAME_LOCAL": "Deuxième prénom en arabe",
-
-"education": "Niveau d’éducation",
-"occupation": "Profession",
-"matrimonialStatus": "Statut matrimonial",
-"emergencyContactNumber": "Numéro de contact d’urgence",
-"emergencyContactName": "Nom du contact d’urgence",
-"emergencyContactRelationship": "Lien avec le contact d’urgence",
-
 "VISIT_OF_THIS_PATIENT_AT_SAME_LOCATION_EXISTS": "Une visite active pour ce patient existe déjà à cet endroit. Le système ne peut pas créer une visite en double.",
 
 "RELATED_PATIENT_IDENTIFIER_LABEL": "Patient",
 "REGISTRATION_LABEL_SAVE_REDIRECTION": "Enregistré et visite commencée avec succès"
-
-
-
 
 }
