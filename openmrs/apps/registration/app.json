@@ -20,7 +20,10 @@
       "description": "Registration Second Page Forms"
     }
   ],
-  "contextModel": ["patientUuid", "activeVisitUuid"],
+  "contextModel": [
+    "patientUuid",
+    "activeVisitUuid"
+  ],
   "config": {
     "showEnterID": false,
     "patientInformation": {
@@ -38,12 +41,16 @@
         ]
       },
       "hidden": {
-        "attributes": ["primaryContact"]
+        "attributes": [
+          "primaryContact"
+        ]
       },
       "defaults": {
         "class": "General",
         "landHolding": 2
-      }
+      },
+      "employment": {},
+      "education": {}
     },
     "hideFormName": true,
     "addressHierarchy": {
@@ -55,15 +62,21 @@
       "Sibling": "patient",
       "Doctor": "provider"
     },
-
-    "autoCompleteFields": ["familyName", "caste"],
+    "autoCompleteFields": [
+      "familyName",
+      "caste"
+    ],
     "defaultIdentifierPrefix": "GAN",
     "defaultVisitType": "OPD",
     "searchByIdForwardUrl": "/patient/{{patientUuid}}",
     "showMiddleName": false,
     "showLastName": true,
     "isLastNameMandatory": true,
-    "patientNameDisplayOrder": ["firstName", "middleName", "lastName"],
+    "patientNameDisplayOrder": [
+      "firstName",
+      "middleName",
+      "lastName"
+    ],
     "showSaveConfirmDialog": false,
     "showBirthTime": false,
     "showCasteSameAsLastNameCheckbox": false,
@@ -102,11 +115,10 @@
       }
     },
     "fieldValidation": {
-  "email": {
-      "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
-      "errorMessage": "REGISTRATION_EMAIL_INVALID_FORMAT_KEY",
-      "required": false
-  
+      "email": {
+        "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+        "errorMessage": "REGISTRATION_EMAIL_INVALID_FORMAT_KEY",
+        "required": false
       },
       "familyName": {
         "pattern": ".*",
@@ -137,7 +149,10 @@
       "customAttributes": {
         "label": "Phone Number",
         "placeholder": "Phone Number",
-        "fields": ["phoneNumber", "alternatePhoneNumber"]
+        "fields": [
+          "phoneNumber",
+          "alternatePhoneNumber"
+        ]
       }
     }
   }
