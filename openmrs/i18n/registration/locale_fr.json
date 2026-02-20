@@ -176,6 +176,6 @@
 "VISIT_OF_THIS_PATIENT_AT_SAME_LOCATION_EXISTS": "Une visite active pour ce patient existe déjà à cet endroit. Le système ne peut pas créer une visite en double.",
 
 "RELATED_PATIENT_IDENTIFIER_LABEL": "Patient",
-"REGISTRATION_LABEL_SAVE_REDIRECTION": "Enregistré et visite commencée avec succès"
-
+"REGISTRATION_LABEL_SAVE_REDIRECTION": "Enregistré et visite commencée avec succès",
+"REGISTRATION_SERVICE_REQUIRED_KEY": "Service requis"
 }
