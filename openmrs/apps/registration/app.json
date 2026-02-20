@@ -42,8 +42,7 @@
       },
       "hidden": {
         "attributes": [
-          "primaryContact",
-          "alternatePhoneNumber"
+          "primaryContact"
         ]
       },
       "defaults": {
@@ -51,10 +50,7 @@
         "landHolding": 2
       },
       "employment": {},
-      "matrimonialStatus": {},
-      "phoneNumber": {},
-      "education": {},
-      "Employment": {}
+      "education": {}
     },
     "hideFormName": true,
     "addressHierarchy": {
