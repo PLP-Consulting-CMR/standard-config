@@ -50,7 +50,9 @@
         "landHolding": 2
       },
       "employment": {},
-      "education": {}
+      "education": {},
+      "phoneNumber": {},
+      "matrimoniqlStatus": {}
     },
     "hideFormName": true,
     "addressHierarchy": {
