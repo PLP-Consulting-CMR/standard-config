@@ -1,17 +1,11 @@
 -- ============================================================
 -- Migration : Statut matrimonial + Person Attribute Types
 -- Date      : 2026-02-19
--- Auteur    : PlinePay e-health
--- Description :
---   1. Mise à jour des descriptions des Person Attribute Types
---   2. Création du concept Matrimonial Status
---   3. Insertion des answers du concept
---   4. Mise à jour du Person Attribute Type matrimonialStatus
+-- Author    : PlinePay e-health
 -- ============================================================
 
 SET NAMES utf8mb4;
 
--- ── 1. Person Attribute Types : descriptions pour traduction ──
 UPDATE person_attribute_type
 SET description = 'REGISTRATION_LABEL_PHONE_NUMBER_KEY'
 WHERE name = 'phoneNumber' AND description != 'REGISTRATION_LABEL_PHONE_NUMBER_KEY';
@@ -24,8 +18,6 @@ UPDATE person_attribute_type
 SET description = 'REGISTRATION_LABEL_MATRIMONIAL_STATUS_KEY'
 WHERE name = 'matrimonialStatus' AND description != 'REGISTRATION_LABEL_MATRIMONIAL_STATUS_KEY';
 
--- ── 2. Concept Matrimonial Status ──────────────────────────────
--- Insérer uniquement si l'UUID n'existe pas déjà
 INSERT INTO concept (uuid, retired, is_set, creator, date_created, datatype_id, class_id)
 SELECT
   '53f2016d-fb69-4b39-9451-0e43b175be32',
@@ -36,7 +28,6 @@ WHERE NOT EXISTS (
   SELECT 1 FROM concept WHERE uuid = '53f2016d-fb69-4b39-9451-0e43b175be32'
 );
 
--- ── 3. Noms du concept ─────────────────────────────────────────
 SET @matrimonial_id = (SELECT concept_id FROM concept WHERE uuid = '53f2016d-fb69-4b39-9451-0e43b175be32');
 
 INSERT INTO concept_name (concept_id, name, locale, locale_preferred, concept_name_type, creator, date_created, voided, uuid)
@@ -71,14 +62,12 @@ WHERE NOT EXISTS (
   WHERE concept_id = @matrimonial_id AND answer_concept = c.concept_id
 );
 
--- ── 5. Person Attribute Type matrimonialStatus ─────────────────
 UPDATE person_attribute_type
 SET
   format      = 'org.openmrs.Concept',
   foreign_key = @matrimonial_id
 WHERE name = 'matrimonialStatus';
 
--- ── 6. Vérification finale ─────────────────────────────────────
 SELECT 'Person Attribute Types' AS check_name;
 SELECT name, format, foreign_key, description
 FROM person_attribute_type
